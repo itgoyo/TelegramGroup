@@ -46,6 +46,10 @@
 
 ### 4. Giffgaff 手机卡
 
+### 全国交友
+
+[全国交友](https://t.me/+bJkN6Cz7WIQ5YjQ9)
+
 ### Telegram API申请
 
 官网申请API: https://my.telegram.org/auth?to=apps
