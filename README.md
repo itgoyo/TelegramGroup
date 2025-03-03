@@ -48,7 +48,7 @@
 
 ### 全国交友
 
-[全国交友](https://t.me/+bJkN6Cz7WIQ5YjQ9)
+全国交友：https://t.me/+bJkN6Cz7WIQ5YjQ9
 
 ### Telegram API申请
 
