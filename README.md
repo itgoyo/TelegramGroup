@@ -17,7 +17,8 @@
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)             | 再小的个体也有自己的品牌。                 |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
-| 🤖免费频道搬运🤖   | [@mianfeibanyunbot](https://t.me/mianfeibanyunbot)            | 直接搬运各大频道内容到自己频道、同时支持监听转发   |
+| 🤖免费频道搬运🤖   | [@mianfeibanyunbot](https://t.me/mianfeibanyunbot)            | 使用教程：https://www.youtube.com/watch?v=rV6vIMFTAPA   |
+| 低价代充3月/6月/12月电报会员   | [shop.tg10000.com](http://shop.tg10000.com/)            | 有代充和自助开通会员机器人(稍贵)   |
 
 ## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
