@@ -73,26 +73,58 @@
 
 🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
 
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 区块链助手      | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)       |能量闪租、TRX兑换、地址交易查询、地址实时监听、余额查询、飞机查群|
-| 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
-| 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
-| 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
-| 群管理机器人      | [@WeGroupRobot](https://t.me/WeGroupRobot)       |专为管理和优化群组聊天体验而设计。它可以帮助群组管理员简化日常管理任务，提高群组的互动质量 |
-| 方丈群管理机器人      | [@fangzhang_bot](https://t.me/fangzhang_bot)       |新人进群验证、新人进群欢迎词、垃圾信息拦截、自动回复、定时发送、强制订阅、消息统计 |
-| 起点交易机器人      | [@qdbot](https://t.me/qdbot?start=invite_533296)       |网络骗子太多，需要担保平台，保证双方利益的交易机器人 |
-| 双向机器人      | [@LivegramBot](https://t.me/LivegramBot)       |可以免费创建属于自己的双向机器人，解决账号无法主动发起会话的问题  |
-| 按钮机器人      | [@PostBot](https://t.me/PostBot)       | 可以在群组或者频道里面编辑按钮控件，用来挂链接或者打广告的神器 |
-| 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       |基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。 |
-| 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
-| 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
-|  频道搬运机器人  | [@msg_get_bot](https://t.me/msg_get_bot?start=K86QAr71)        | 破解频道/群组不允许转发机器人,频道主运营利器|
-|  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
-|  ID查询机器人  | [@nminfobot](https://t.me/nminfobot)        | 转发一条聊天信息给我，快速查询对方 ID|
-|  短信轰炸机器人  | [@Carll_Bomb_bot](https://t.me/Carll_Bomb_bot?start=7439567495)        | 短信轰炸机器人，这你爱的人送上“祝福”。让你爱的人，“夜不能寐”|
-|  区块链助手  | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)        | 用来监听钱包余额变化，防骗必备神器|
+#### Telegram电报官方
 
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
+| BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
+| Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 创建贴纸包，管理贴纸                       |
+| Telegraph             | [@Telegraph](https://t.me/Telegraph/)                               | 创建并管理Telegraph文章                    |
+| Premium Bot           | [@PremiumBot](https://t.me/PremiumBot/)                             | Telegram会员官方购买机器人                 |
+| Wallet                | [@wallet](https://t.me/wallet/)                                     | Telegram官方钱包机器人                     |
+| Previews              | [@previews](https://t.me/previews/)                                 | Telegram即时预览反馈机器人                 |
+| MTProxy Admin Bot     | [@MTProxybot](https://t.me/MTProxybot/)                             | 创建并管理Telegram MTProxy                 |
+| Transparency Reports  | [@transparency](https://t.me/transparency/)                         | Telegram向政府透露的数据统计               |
+| Webpage Bot           | [@WebpageBot](https://t.me/WebpageBot/)                             | 链接预览更新机器人                         |
+| Verify Bot            | [@VerifyBot](https://t.me/VerifyBot/)                               | 认证你的Telegram频道、群组和机器人         |
+| Username Bot          | [@username_bot](https://t.me/username_bot/)                         | 通过权威认证获取被占用的用户名             |
+| Fragment Auction Alerts | [@fragment](https://t.me/fragment/)                               | Fragment拍卖通知机器人                     |
+
+#### 群组管理
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
+| Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
+| Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
+| KinhRoBot             | [@KinhRoBot](https://t.me/KinhRoBot/)                               | 超多功能的群管机器人                       |
+| Policr Mini           | [@policr_mini_bot](https://t.me/policr_mini_bot/)                   | 功能简化、全新设计的Policr迷你版           |
+| 呆呆兽                | [@KeDuckBot](https://t.me/KeDuckBot/)                               | 呆呆兽群管机器人                           |
+| 方丈机器人            | [@fangzhang_bot](https://t.me/fangzhang_bot/)                       | 方丈群组管理机器人                         |
+| 阿福                  | [@afoolrobot](https://t.me/afoolrobot/)                             | 阿福支持克隆，自动回复，广告过滤等         |
+| Telegram Watchdog     | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot/)               | 看门狗机器人，提供入群验证                 |
+| 反频道马甲Bot         | [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot/)     | 自动删除群成员以频道身份发送的消息         |
+| NoAdsBot              | [@autodeletead_bot](https://t.me/autodeletead_bot/)                 | 自动删除群组中的广告消息                   |
+| 查特皮皮鸡            | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT/)                   | 基于OpenAI和Google Cloud AI Platform的反垃圾机器人 |
+| We Group Bot          | [@WeGroupRobot](https://t.me/WeGroupRobot/)                         | 多功能的群组管理机器人                     |
+| CaptchatBot           | [@Captchat_Bot](https://t.me/Captchat_Bot/)                         | 新成员验证码机器人，避免广告骚扰           |
+| The Join Captcha Bot  | [@join_captcha_bot](https://t.me/join_captcha_bot/)                 | 入群验证机器人                             |
+| Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
+| Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
+
+#### 频道分析
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖子                 |
+| LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
+| DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
+| React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
+| Telegram Analytics Bot| [@tg_analytics_bot](https://t.me/tg_analytics_bot/)                 | Telegram统计分析机器人                     |
+| Telemetrio            | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)                   | Telemetrio官方机器人                       |
+| TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
+| Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
 
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
@@ -185,6 +217,25 @@
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 |PG电子🎮爆币      | [@PGPGSoftbot](https://t.me/PGPGSoftbot?start=10264)       | 爆金币 |
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 区块链助手      | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)       |能量闪租、TRX兑换、地址交易查询、地址实时监听、余额查询、飞机查群|
+| 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
+| 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
+| 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
+| 群管理机器人      | [@WeGroupRobot](https://t.me/WeGroupRobot)       |专为管理和优化群组聊天体验而设计。它可以帮助群组管理员简化日常管理任务，提高群组的互动质量 |
+| 方丈群管理机器人      | [@fangzhang_bot](https://t.me/fangzhang_bot)       |新人进群验证、新人进群欢迎词、垃圾信息拦截、自动回复、定时发送、强制订阅、消息统计 |
+| 起点交易机器人      | [@qdbot](https://t.me/qdbot?start=invite_533296)       |网络骗子太多，需要担保平台，保证双方利益的交易机器人 |
+| 双向机器人      | [@LivegramBot](https://t.me/LivegramBot)       |可以免费创建属于自己的双向机器人，解决账号无法主动发起会话的问题  |
+| 按钮机器人      | [@PostBot](https://t.me/PostBot)       | 可以在群组或者频道里面编辑按钮控件，用来挂链接或者打广告的神器 |
+| 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       |基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。 |
+| 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
+| 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
+|  频道搬运机器人  | [@msg_get_bot](https://t.me/msg_get_bot?start=K86QAr71)        | 破解频道/群组不允许转发机器人,频道主运营利器|
+|  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
+|  ID查询机器人  | [@nminfobot](https://t.me/nminfobot)        | 转发一条聊天信息给我，快速查询对方 ID|
+|  短信轰炸机器人  | [@Carll_Bomb_bot](https://t.me/Carll_Bomb_bot?start=7439567495)        | 短信轰炸机器人，这你爱的人送上“祝福”。让你爱的人，“夜不能寐”|
+|  区块链助手  | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)        | 用来监听钱包余额变化，防骗必备神器|
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
 | Chatbot      | [@strangybot](https://t.me/strangybot)       | A chatbot that you can talk to.  |
 | Quiz bot   | [@QuizBot](https://t.me/QuizBot)        | Create and take quizzes.      |
