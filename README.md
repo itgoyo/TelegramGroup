@@ -19,7 +19,7 @@
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)             | 再小的个体也有自己的品牌。                 |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 
-## 电报切换中文语言
+## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
 视频参考：https://www.youtube.com/watch?v=-Bz9amW-iZQ
 
