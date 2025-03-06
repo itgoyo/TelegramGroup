@@ -18,7 +18,8 @@
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 🤖免费频道搬运🤖   | [@mianfeibanyunbot](https://t.me/mianfeibanyunbot)            | 使用教程：https://www.youtube.com/watch?v=rV6vIMFTAPA   |
-| 🤖Telegram电报会员机器人🤖   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 支持USDT、微信、支付宝等支付   |
+| Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 支持USDT、微信、支付宝等支付   |
+| 每日免费节点   | [@freevpntg](https://t.me/freevpntg)            | 每天中午12点准时更新免费高速节点   |
 
 ## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
