@@ -54,9 +54,9 @@
 
 ### 全国交友
 
-全国交友①：[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://www.tg10000.com)
+全国交友①：[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
 
-全国交友②：[https://t.me/+C5fvKZ_VCxU4NWRl](https://shop.tg10000.com)
+全国交友②：[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)
 
 ### Telegram API申请
 
