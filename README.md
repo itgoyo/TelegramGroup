@@ -223,9 +223,6 @@
 #### 其他有趣机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|PG电子🎮爆币      | [@PGPGSoftbot](https://t.me/PGPGSoftbot?start=10264)       | 爆金币 |
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
 | 区块链助手      | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)       |能量闪租、TRX兑换、地址交易查询、地址实时监听、余额查询、飞机查群|
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 | 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
