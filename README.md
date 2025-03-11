@@ -24,6 +24,7 @@
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
+| 免费AWS云服务器   | [https://aws.amazon.com](https://aws.amazon.com/cn/free/?trk=05c4283f-b9be-4736-b677-e1aab9304173&sc_channel=sm)            | 免费使用亚马逊云服务器   |
 
 ## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
