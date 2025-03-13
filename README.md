@@ -4,7 +4,7 @@
 -->
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
- <a>Telegram中文频道</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>
+ <a>Telegram中文频道</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站</a> <a href="https://tg10000.com">tg10000.com</a>
 </div>
 
 ### 搜索机器人
@@ -19,9 +19,8 @@
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务   |
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 支持USDT、微信、支付宝等支付   |
-| 🚀每日免费节点   | [@freevpntg](https://t.me/freevpntg)            | 每天中午12点准时更新免费高速节点   |
-| Telegram频道搬运   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  免费搬运机器人:[@xiunvbanyun1bot](https://t.me/xiunvbanyun1bot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
-| 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            |  彩虹群发器自动售货机  |
+| 🚀每日免费节点🚀   | [@freevpntg](https://t.me/freevpntg)            | 每天中午12点准时更新免费高速节点   |
+| Telegram频道搬运   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  搬运别人的频道，直接解放双手   |
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
