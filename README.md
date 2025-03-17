@@ -239,7 +239,7 @@
 | 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       |基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。 |
 | 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
 | 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
-|  频道搬运机器人  | [@kuaixiaBot](https://t.me/kuaixiaBot?start=c42d54b0f9e36592783b7d594421eafa）        | 破解频道/群组不允许转发机器人,频道主运营利器|
+|  频道搬运机器人  | [@kuaixiaBot](https://t.me/kuaixiaBot?start=c42d54b0f9e36592783b7d594421eafa)        | 破解频道/群组不允许转发机器人,频道主运营利器|
 |  频道搬运机器人  | [@msg_get_bot](https://t.me/msg_get_bot?start=K86QAr71)        | 破解频道/群组不允许转发机器人,频道主运营利器|
 |  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
 |  ID查询机器人  | [@nminfobot](https://t.me/nminfobot)        | 转发一条聊天信息给我，快速查询对方 ID|
