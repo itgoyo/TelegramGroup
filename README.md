@@ -18,7 +18,7 @@
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)             | 再小的个体也有自己的品牌。                 |
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
-| 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务   |
+| 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 支持USDT、微信、支付宝等支付   |
 | 🚀每日免费节点   | [@freevpntg](https://t.me/freevpntg)            | 每天中午12点准时更新免费高速节点   |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
