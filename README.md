@@ -19,10 +19,10 @@
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
-| Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 支持USDT、微信、支付宝等支付   |
+| Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付   |
 | 🚀每日免费节点   | [Free-SSR-V2ray](https://github.com/itgoyo/Free-SSR-V2ray)               | 每天中午12点准时更新免费高速节点   |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  免费机器人：[xiunvbanyun1bot](https://t.me/xiunvbanyun1bot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
+| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
