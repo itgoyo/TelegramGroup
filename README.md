@@ -496,7 +496,6 @@
 | 雷神之锤 | https://t.me/thorshu | Thor 官方群已转为私群，本群仅仅是为... |
 | KidO | https://t.me/Pythonista3jiaoliuqun | itsfeobot ! |
 | iTools | https://t.me/toolinbox | macOS 工具箱：https://toolinbox.net |
-| 🔥WS群发 \| FB群发 \| INS群发 \| TK矩阵 \| 获客引流 \| 拓客引流 \| 云推客！全球\|全渠道引流\|系统、自动获客工具 | https://t.me/PcatApp | 🔥WS群发 \| FB群发 \| INS群发 \| TK矩阵 \| �... |
 | Aria2 中文交流群 | https://t.me/Aria2_CN | 无描述 |
 | Pure Writer Releases | https://t.me/purewriter | Changelogs in this channel are usually written in ... |
 | EOS | https://t.me/EOSproject | The Most Powerful Infrastructure for Decentralized... |
