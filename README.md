@@ -18,7 +18,7 @@
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)             | 再小的个体也有自己的品牌。                 |
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
-| 修女TRX闪兑能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务         |
+| 修女TRX闪兑能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [Free-SSR-V2ray](https://github.com/itgoyo/Free-SSR-V2ray)               | 每天中午12点准时更新免费高速节点   |
