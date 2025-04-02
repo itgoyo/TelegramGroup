@@ -12,7 +12,7 @@ def git_operations(script_dir):
             'GIT_WORK_TREE': script_dir
         }
         
-        # 设置Git用户信息（请替换为你的GitHub用户名和邮箱）
+        # 设置Git用户信息
         subprocess.run(['git', 'config', 'user.name', 'AZeC4'], env=git_env, check=True)
         subprocess.run(['git', 'config', 'user.email', 'itgoyo@foxmail.com'], env=git_env, check=True)
         
@@ -22,9 +22,19 @@ def git_operations(script_dir):
         # Git 操作
         subprocess.run(['git', 'add', '.'], env=git_env, check=True)
         subprocess.run(['git', 'commit', '-m', f"Update README.md - {current_date}"], env=git_env, check=True)
-        subprocess.run(['git', 'push', 'origin', 'main'], env=git_env, check=True)
         
-        print("Successfully pushed to GitHub!")
+        # 获取当前分支名称
+        result = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'], 
+                              env=git_env, 
+                              capture_output=True, 
+                              text=True, 
+                              check=True)
+        current_branch = result.stdout.strip()
+        
+        # 使用检测到的分支名进行推送
+        subprocess.run(['git', 'push', 'origin', current_branch], env=git_env, check=True)
+        
+        print(f"Successfully pushed to GitHub on branch {current_branch}!")
     except subprocess.CalledProcessError as e:
         print(f"Error during git operations: {e}")
     except Exception as e:
