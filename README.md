@@ -15,13 +15,13 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| SOSO机器人  | [@soso](https://t.me/soso?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频           |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_2114110836)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_6294881820)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送关键词来寻找群组、频道或视频           |
+| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7439567495)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
-| AISO       | [@aiso](https://t.me/aiso?start=telegram_6294881820)                | 查找群组、频道、影视、音乐或机器人         |
-| 神马搜索   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源         |
+| AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
+| 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 🔥修女能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 🔥奥特曼能量租赁   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 买能量，租能量，兑换TRX。通知群:[@aotemantrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
@@ -127,7 +127,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--6294881820)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
+| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
 
 ### 常用机器人
 
@@ -189,14 +189,14 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|SOSO|[@soso](https://t.me/sosoo?start=a_6294881820)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | ikuaiso     | [@ikuaisobot](https://t.me/ikuaisobot?start=)  | 帮你找到有趣的群、频道、视频、音乐、电影、新闻！ |
-| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_6294881820)  | 查找群组、频道、影视、音乐或机器人。  |
-| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_6294881820)       | 神马索引机器人，可以通过关键词查找  |
-| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=6294881820)        | 帮助您找到感兴趣的群组、频道和机器人！      |
-| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=6294881820)       | 帮助您找到感兴趣的群组、频道和机器人！  |
+| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_7202424896)  | 查找群组、频道、影视、音乐或机器人。  |
+| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_7202424896)       | 神马索引机器人，可以通过关键词查找  |
+| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=7202424896)        | 帮助您找到感兴趣的群组、频道和机器人！      |
+| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=7202424896)       | 帮助您找到感兴趣的群组、频道和机器人！  |
 
 
 #### 群组抽奖机器人
