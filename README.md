@@ -4,7 +4,7 @@
 -->
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://tg10000.com">tg10000.com</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
+ <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://telegramnav.github.io">https://telegramnav.github.io</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
 ⚡️向下单地址转入TRX 6秒自动到能量<br>
 下单地址: <code>TRKC4Mx1SAAHyBfFEN4bmQUKGugypFBF7J</code><br>
 🟩1笔USDT转帐能量: 3TRX<br>
@@ -15,13 +15,13 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送关键词来寻找群组、频道或视频           |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| SOSO机器人  | [@soso](https://t.me/soso?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频           |
+| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7439567495)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_6294881820)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)             | 再小的个体也有自己的品牌。                 |
-| AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找群组、频道、影视、音乐或机器人         |
-| 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
+| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
+| AISO       | [@aiso](https://t.me/aiso?start=telegram_6294881820)                | 查找群组、频道、影视、音乐或机器人         |
+| 神马搜索   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源         |
 | 🔥修女能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 🔥奥特曼能量租赁   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 买能量，租能量，兑换TRX。通知群:[@aotemantrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
@@ -37,6 +37,45 @@
 | 币圈区块链各类常用工具   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 
+### 机器人搭建有需要联系:[@banyunpindao](https://t.me/banyunpindao)
+| 项目                                       | 说明                                              | 价格            |
+| ------------------------------------------ | ------------------------------------------------- | --------------- |
+| 自动上传脚本                                | 提供源码及搭建服务，效果查看：[@dysyg](https://t.me/dysyg)          | 50U             |
+| 修女频道搬运                                | 搬运整个频道10U,自行联系[@banyunpindao](https://t.me/banyunpindao) | 10U   |
+| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@banyunpindao](https://t.me/banyunpindao) | 100U            |
+| 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
+| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 | 软件下载地址:[网盘地址](https://pan.baidu.com/s/18NYmzhaSKx2x4KnfcAaqNg?pwd=u5vw),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥200             |
+| Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot) + [trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
+  <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
+  <img src="https://i.imgur.com/o32jV8y.png" alt="彩虹群发电报神器" style="width: 30%;"/>
+</div>
+
+
+## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
+![](https://i.imgur.com/Ba6epuD.png)
+
+1、三个方式开启:
+
+>>方式 a：打开 windows 电脑桌面客户端, 左上角三短线: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
+
+![](https://i.imgur.com/Yl9H4q4.png)
+
+Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教程
+>>方式 b：打开 macOS 苹果电脑桌面客户端: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
+
+>>方式 c：网页版: 手机或电脑浏览器访问网页版地址: https://web.telegram.org/
+
+对话列表→左上角 / 右上角三短线→Settings→打开 ”Show Sensitive Content”.
+
+3、整体的过程就是桌面端或网页版开启显示, 手机端就可以了, 不需要在手机端 APP 设置中操作.
+
+要求:
+
+* Telegram iOS 客户端版本 ≥ 5.13
+
+备注: Windows, macOS, Linux 系统的电脑都可以使用   Telegram Desktop 版本客户端.(macOS 上 Mac App Store 中的 ”Telegram Desktop” 已更名为 ”Telegram Lite”)
 
 ## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
