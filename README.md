@@ -39,10 +39,11 @@
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 |全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子    |
-| 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子    |
-| 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子    |
-| x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子    |
+| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
+| 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子(Scammer)    |
+| x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子(Scammer)    |
+| 每日直播 |[https://t.me/+rtNpNWn3ePpkN2Rl](https://t.me/+rtNpNWn3ePpkN2Rl)|  骗子(Scammer)    |
 
 ### 机器人搭建有需要联系:[@banyunpindao](https://t.me/banyunpindao)
 | 项目                                       | 说明                                              | 价格            |
