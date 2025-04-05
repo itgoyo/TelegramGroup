@@ -43,7 +43,7 @@
 | 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子(Scammer)    |
 | x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子(Scammer)    |
 | 每日直播 |[https://t.me/+rtNpNWn3ePpkN2Rl](https://t.me/+rtNpNWn3ePpkN2Rl)|  骗子(Scammer)    |
-| 怡红园 |[https://t.me/+QzbqdUopBX1mOGU8](https://t.me/+QzbqdUopBX1mOGU8)]|  骗子(Scammer)    |
+| 怡红园 |[https://t.me/+QzbqdUopBX1mOGU8](https://t.me/+QzbqdUopBX1mOGU8)|  骗子(Scammer)    |
 
 ### 机器人搭建有需要联系:[@banyunpindao](https://t.me/banyunpindao)
 | 项目                                       | 说明                                              | 价格            |
