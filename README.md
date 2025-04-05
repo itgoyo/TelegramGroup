@@ -6,10 +6,6 @@
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://tg10000.com">https://tg10000.com</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
-⚡️向下单地址转入TRX 6秒自动到能量<br>
-下单地址: <code>TRKC4Mx1SAAHyBfFEN4bmQUKGugypFBF7J</code><br>
-🟩1笔USDT转帐能量: 3TRX<br>
-🟨2笔USDT转帐能量: 6TRX
 </div>
 
 ### 搜索机器人(❗️中文用户名，如张三，使用就送USDT❗️多使用以下搜索，否则玩不明白电报)
