@@ -50,6 +50,7 @@
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
 | 自动上传脚本                                | 提供源码及搭建服务，效果查看：[@dysyg](https://t.me/dysyg)          | 50U             |
 | 修女频道搬运                                | 搬运整个频道10U,自行联系[@banyunpindao](https://t.me/banyunpindao) | 10U   |
+| tdl                          | 电报下载神器搭建,自行联系[@banyunpindao](https://t.me/banyunpindao) | 30U或¥200   |
 | 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@banyunpindao](https://t.me/banyunpindao) | 100U            |
 | 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
 | Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
