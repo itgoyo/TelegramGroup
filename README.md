@@ -40,10 +40,6 @@
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
-| 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子(Scammer)    |
-| x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子(Scammer)    |
-| 每日直播 |[https://t.me/+rtNpNWn3ePpkN2Rl](https://t.me/+rtNpNWn3ePpkN2Rl)|  骗子(Scammer)    |
-| 怡红园 |[https://t.me/+QzbqdUopBX1mOGU8](https://t.me/+QzbqdUopBX1mOGU8)|  骗子(Scammer)    |
 
 ### 机器人搭建有需要联系:[@banyunpindao](https://t.me/banyunpindao)
 | 项目                                       | 说明                                              | 价格            |
