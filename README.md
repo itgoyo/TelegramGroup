@@ -62,7 +62,7 @@
 | Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)       |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名          |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 | 软件下载地址:[网盘地址](https://pan.baidu.com/s/18NYmzhaSKx2x4KnfcAaqNg?pwd=u5vw)，使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥200             |
+| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥199         |
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
   <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
