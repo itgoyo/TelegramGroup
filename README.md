@@ -25,7 +25,7 @@
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [@meirijiedian](https://t.me/meirijiedian)               | 每天整点准时更新免费高速节点   |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
+| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) ,支持频道1比1搬运，频道备份、频道模仿，涨粉神器  |
 |  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
