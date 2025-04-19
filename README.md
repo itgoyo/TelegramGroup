@@ -77,7 +77,7 @@
 
 >>方式 a：打开 windows 电脑桌面客户端, 左上角三短线: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
 
-![](https://i.imgur.com/Yl9H4q4.png){:width="30%"}
+<img src="https://i.imgur.com/Yl9H4q4.png" width="300" />
 
 Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教程
 >>方式 b：打开 macOS 苹果电脑桌面客户端: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
