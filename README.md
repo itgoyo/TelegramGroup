@@ -20,7 +20,6 @@
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
-| 搜搜  | [@sousou](https://t.me/+WgkQykGD7B5kNzdl)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 🔥奥特曼能量租赁   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 买能量，租能量，兑换TRX。通知群:[@aotemantrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259，频道：[@tg2vip](https://t.me/tg2vip)     |
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
@@ -43,7 +42,6 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
-|x欲至上|[https://t.me/+WgkQykGD7B5kNzdl](https://t.me/+WgkQykGD7B5kNzdl)|骗子(Scammer)|
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
 
