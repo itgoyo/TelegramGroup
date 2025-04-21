@@ -16,7 +16,7 @@
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送关键词来寻找群组、频道或视频           |
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSou  | [@jisou](https://t.me/jisou?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
