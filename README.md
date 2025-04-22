@@ -44,6 +44,7 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
+| 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)|  骗子(Scammer)    |
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
 
