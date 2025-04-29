@@ -24,7 +24,7 @@
 | 🔥奥特曼能量租赁   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 买能量，租能量，兑换TRX。通知群:[@aotemantrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259，频道：[@tg2vip](https://t.me/tg2vip)     |
 | Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
-| 🚀每日免费节点   | [@meirijiedian](https://t.me/meirijiedian)               | 每天整点准时更新免费高速节点   |
+| 🚀每日免费节点   | [@meirijiedian](https://t.me/meirijiedian)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
