@@ -40,17 +40,17 @@
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 | 🍉 色瓜中心 | [https://t.me/seguazhongxin](https://t.me/seguazhongxin) | 分享全网第一个热瓜      |
 
-### 曝光不良频道
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
-|全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
-| 莞式会所 | [https://t.me/+Y8MQPTlc8PNlMWRl](https://t.me/+Y8MQPTlc8PNlMWRl)|  骗子(Scammer)    |
-| 性欲至上 | [https://t.me/+pWlKa_DEk_RmMzY1](https://t.me/+pWlKa_DEk_RmMzY1)|  骗子(Scammer)    |
-| 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)|  骗子(Scammer)    |
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+bZ8sAhxGYWs4ZTg1](https://t.me/+bZ8sAhxGYWs4ZTg1)|  骗子(Scammer)    |
+### 不良频道
+| 名字       | 链接                                                                 | 
+| :--------- | :------------------------------------------------------------------: | 
+|全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|
+|全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|
+| 莞式会所 | [https://t.me/+Y8MQPTlc8PNlMWRl](https://t.me/+Y8MQPTlc8PNlMWRl)| 
+| 性欲至上 | [https://t.me/+pWlKa_DEk_RmMzY1](https://t.me/+pWlKa_DEk_RmMzY1)| 
+| 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)| 
+| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) | 
+| 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)| 
+| 反差 | [https://t.me/+bZ8sAhxGYWs4ZTg1](https://t.me/+bZ8sAhxGYWs4ZTg1)| 
 
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
