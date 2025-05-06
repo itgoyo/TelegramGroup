@@ -47,7 +47,6 @@
 |全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
 | 莞式会所 | [https://t.me/+Y8MQPTlc8PNlMWRl](https://t.me/+Y8MQPTlc8PNlMWRl)|  骗子(Scammer)    |
-| 性欲至上 | [https://t.me/+pWlKa_DEk_RmMzY1](https://t.me/+pWlKa_DEk_RmMzY1)|  骗子(Scammer)    |
 | 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)|  骗子(Scammer)    |
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)|  骗子(Scammer)    |
