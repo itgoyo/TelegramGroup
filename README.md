@@ -53,10 +53,11 @@
 | 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)|  骗子(Scammer)    |
 | 反差 | [https://t.me/+bZ8sAhxGYWs4ZTg1](https://t.me/+bZ8sAhxGYWs4ZTg1)|  骗子(Scammer)    |
 
-### 推广
+### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |USDT机器人                             | [@cwdusdt_bot](https://t.me/cwdusdt_bot?start=Rzquv7By)          |免费的USDT余额查询，交易监听，汇率转换，授权多签检测机器人    |
+|tg账号购买、telegram账号购买、飞机账号、电报账号购买批发、电报账号、协议号、直登号、tdada、session账号 |  [@tdataman](https://t.me/tdataman)     |🇲🇲缅甸卖家 +95账号0.35u/个，50个起售,全网最低价   |
 
 ### 机器人搭建有需要联系:[@banyunpindao](https://t.me/banyunpindao)
 | 项目                                       | 说明                                              | 价格            |
