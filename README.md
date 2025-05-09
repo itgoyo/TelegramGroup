@@ -26,6 +26,7 @@
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
+| 👉协议号/直登号/广告号/tdata | [@tdataman](https://t.me/tdataman)            | 🇲🇲缅甸卖家 +95账号0.35u/个，50个起售,全网最低价  |
 | 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🎨电报第一P图大师   | [@p8826](https://t.me/p8826)                  |  专业PS P图/头像/会员文字，大厂设计师服务包满意      |
