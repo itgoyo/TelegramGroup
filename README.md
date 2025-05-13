@@ -21,7 +21,7 @@
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 搜索sousuo       | [@sousuo](https://t.me/+skAMUotNfilmM2Y1)                | 查找群组、频道、影视、音乐或机器人         |
-| 🔥能量租赁🔥   | [@trxnbot](https://t.me/trxnbot)                  | 买能量、租能量、兑换TRX、telegram电报会员(3月/17U、6月/22U、12月/36U)、地址监听、实时U价、ID查询等功能多功能机器人。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
+| 🔥能量租赁   | [@trxnbot](https://t.me/trxnbot)                  | 买能量、租能量、兑换TRX、telegram电报会员(3月/17U、6月/22U、12月/36U)、地址监听、实时U价、ID查询等功能多功能机器人。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
