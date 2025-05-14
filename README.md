@@ -65,6 +65,7 @@
 | 自动上传脚本                                | 提供源码及搭建服务        | 50U             |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
 | tdl                          | 电报下载神器搭建,自行联系[@banyunpindao](https://t.me/banyunpindao)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
+| 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
 | 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@banyunpindao](https://t.me/banyunpindao) | 100U            |
 | 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
 | Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
