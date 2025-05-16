@@ -44,11 +44,10 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 |全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真实性不清楚，请勿轻信上当|
-| 莞式会所 | [https://t.me/+WZZlyeOzshdjNzdl](https://t.me/+WZZlyeOzshdjNzdl)|  骗子(Scammer)    |
-| 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)|  骗子(Scammer)    |
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+bZ8sAhxGYWs4ZTg1](https://t.me/+bZ8sAhxGYWs4ZTg1)|  骗子(Scammer)    |
+| 微信同城交友 | [https://t.me/+2JCEjsnj0J82NzQ1](https://t.me/+2JCEjsnj0J82NzQ1)|  骗子(Scammer)    |
+| 天天约会 | [https://t.me/+134AoIL6qbBlNzgx](https://t.me/+134AoIL6qbBlNzgx) |  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+BbMDCKib6_VhODE1](https://t.me/+BbMDCKib6_VhODE1)|  骗子(Scammer)    |
+| 反差 | [https://t.me/+8mJoO6-7yRllMGU0](https://t.me/+8mJoO6-7yRllMGU0)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
