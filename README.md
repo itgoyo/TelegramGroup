@@ -129,7 +129,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 ### 4. Giffgaff 手机卡
 
-### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@sxhzbot](https://t.me/sxhzbot)
+### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@sxhzbot](https://t.me/shenqingapi)
 
 官网申请API: https://my.telegram.org/auth?to=apps
 
