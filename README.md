@@ -25,7 +25,7 @@
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot?start=tqXwAOCVz2MbaEy)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
@@ -55,17 +55,17 @@
 |USDT机器人                             | [@cwdusdt_bot](https://t.me/cwdusdt_bot?start=Rzquv7By)          |免费的USDT余额查询，交易监听，汇率转换，授权多签检测机器人    |
 
 
-### 机器人搭建有需要联系:[@sxhzbot](https://t.me/sxhzbot)
+### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
 | 按钮机器人                                | [@xiunvanniubot](https://t.me/xiunvanniubot)，使用教程:[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)     |    免费          |
-| 修女频道搬运                                | 搬运整个频道10U,自行联系[@sxhzbot](https://t.me/sxhzbot) | 10U   |
+| 修女频道搬运                                | 搬运整个频道10U,自行联系[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 使用教程:[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
 | 自动上传脚本                                | 提供源码及搭建服务        | 50U             |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
-| tdl                          | 电报下载神器搭建,自行联系[@sxhzbot](https://t.me/sxhzbot)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
+| tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
-| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@sxhzbot](https://t.me/sxhzbot) | 100U            |
+| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@tgxiunv](https://t.me/tgxiunv) | 100U            |
 | 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
 | Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)       |
