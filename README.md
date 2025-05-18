@@ -25,6 +25,7 @@
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot?start=tqXwAOCVz2MbaEy)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
+| 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com/](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
 | 免费频道搬运机器人   | [@banyunyewu](https://t.me/banyunyewu)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
