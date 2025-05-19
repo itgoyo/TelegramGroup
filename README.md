@@ -683,8 +683,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 ### 翻墙
 
-*   机场VPN导航站:[https://jichangvpn.github.io/](https://jichangvpn.github.io/)
-*   每日免费节点:[https://t.me/autofreevpn](https://t.me/autofreevpn)
+*   机场VPN导航站:[https://vpnnav.github.io/](https://vpnnav.github.io/)
 *   Shadowsocks&Clash:[https://t.me/shadowsocks_clash](https://t.me/shadowsocks_clash)
 *   不良林:[https://t.me/buliang00](https://t.me/buliang00)
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
