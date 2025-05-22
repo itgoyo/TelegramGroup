@@ -58,6 +58,14 @@
 |USDT机器人                             | [@cwdusdt_bot](https://t.me/cwdusdt_bot?start=Rzquv7By)          |免费的USDT余额查询，交易监听，汇率转换，授权多签检测机器人    |
 |免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
 
+### 交易所提币或者是购买USDT
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 币安    |   [https://accounts.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   |       币安交易所(持有bnb减免40%手续费)|
+| 欧易OKX    |   [https://www.okx.com](https://chouyi.info/join/50253981)   |      欧易交易所(减免30%手续费)|
+| ByBit    |   [https://www.bybit.com/](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)|
+| Gate.io    |   [https://www.gatenode.site/signup](https://www.gatenode.site/signup/VLDFUFEOAW?ref_type=102)   |     Gate.io交易所(减免40%手续费)|
+| 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)|
 
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
