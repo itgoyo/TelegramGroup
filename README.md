@@ -10,7 +10,6 @@
 </div>
 
 <img src="https://i.imgur.com/ywjcaE6.png" alt="USDT">
-
 ### 搜索机器人(❗️中文用户名，如张三，使用就送USDT❗️多使用以下搜索，否则玩不明白电报)
 
 | 名字       | 链接                                                                 | 功能描述                                   |
