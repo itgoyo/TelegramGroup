@@ -60,7 +60,7 @@
 |USDT机器人                             | [@cwdusdt_bot](https://t.me/cwdusdt_bot?start=Rzquv7By)          |免费的USDT余额查询，交易监听，汇率转换，授权多签检测机器人    |
 |免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
 
-### 交易所提币或者是购买USDT
+### 交易所提币或者是购买USDT、币圈撸空投
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
