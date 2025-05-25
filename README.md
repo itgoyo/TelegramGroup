@@ -32,7 +32,7 @@
 | 免费破解私密群组消息无法下载转发机器人  | [@xnpojiemsgbot](http://t.me/xnpojiemsgbot)       | 破解私密群组消息无法下载转发机器人，直接粘贴想要的帖子地址皆可实现下载转发功能|
 | 👚AI去衣机器人  | [@Xai1314bot](https://ouo.io/AKrNVf)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
+| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou5173](https://t.me/jisou5173)            | 可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
