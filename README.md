@@ -54,6 +54,7 @@
 | 天天约会 | [https://t.me/+134AoIL6qbBlNzgx](https://t.me/+134AoIL6qbBlNzgx) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+BbMDCKib6_VhODE1](https://t.me/+BbMDCKib6_VhODE1)|  骗子(Scammer)    |
 | 反差 | [https://t.me/+8mJoO6-7yRllMGU0](https://t.me/+8mJoO6-7yRllMGU0)|  骗子(Scammer)    |
+| 速约 | [https://t.me/+R95a_PqmkI0yMmZl](https://t.me/+R95a_PqmkI0yMmZl)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
