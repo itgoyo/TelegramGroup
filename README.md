@@ -5,7 +5,7 @@
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://tg10000.com">https://tg10000.com</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
+ <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://tg10000.com">https://tg10000.com</a>  <a>商务合作:</a> <a href="mailto:tglumao@gmail.com">tglumao@gmail.com</a><br>
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br><br>
 </div>
 
@@ -23,10 +23,9 @@
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 搜索sousuo       | [@sousuo](https://t.me/+skAMUotNfilmM2Y1)                | 查找群组、频道、影视、音乐或机器人         |
-| 🔥能量租赁   | [@trxnbot](https://t.me/trxnbot)                  | 买能量、租能量、兑换TRX、telegram电报会员(3月/17U、6月/22U、12月/36U)、地址监听、实时U价、ID查询等功能多功能机器人。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
-| 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
-| 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot?start=tqXwAOCVz2MbaEy)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
+| 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
+| 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
 | 免费频道搬运机器人   | [@banyunyewu](https://t.me/banyunyewu)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 免费破解私密群组消息无法下载转发机器人  | [@xnpojiemsgbot](http://t.me/xnpojiemsgbot)       | 破解私密群组消息无法下载转发机器人，直接粘贴想要的帖子地址皆可实现下载转发功能|
@@ -87,10 +86,9 @@
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
 | 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@tgxiunv](https://t.me/tgxiunv) | 100U            |
 | 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
-| Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)       |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名          |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [@caihongautobot](https://t.me/caihongautobot?start=tqXwAOCVz2MbaEy)  | ¥199         |
+| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [@https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)  | ¥199         |
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
   <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
