@@ -27,7 +27,7 @@
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
-| 免费频道搬运机器人   | [@banyunyewu](https://t.me/banyunyewu)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 免费频道搬运机器人   |免费机器人[@xnby003bot](https://t.me/xnby003bot)            | 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 免费破解私密群组消息无法下载转发机器人  | [@xnpojiemsgbot](http://t.me/xnpojiemsgbot)       | 破解私密群组消息无法下载转发机器人，直接粘贴想要的帖子地址皆可实现下载转发功能|
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | Telegram中文讨论群   | [tgcn20w](https://t.me/tgcn20w)                       | 打造一个能一起讨论的中文社区群 |
