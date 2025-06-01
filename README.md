@@ -72,6 +72,8 @@
 
 ![](https://imgur.com/MlRDjeU.png)
 
+![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
+
 ### 空投
 
 🐽 根据您的 Discord 帐户年龄 
