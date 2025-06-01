@@ -45,7 +45,7 @@
 ### 曝光不良频道
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
+|景福宫高端商务|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+Xgugccn0PrI0NGJl](https://t.me/+Xgugccn0PrI0NGJl)|  骗子(Scammer)    |
 | 天天约会 | [https://t.me/+yA_dbtEFIWcwZTM9](https://t.me/+yA_dbtEFIWcwZTM9) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+RROt6ftwoAI5Yzg1](https://t.me/+RROt6ftwoAI5Yzg1)|  骗子(Scammer)    |
