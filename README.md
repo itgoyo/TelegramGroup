@@ -76,8 +76,6 @@
 
 🐽 根据您的 Discord 帐户年龄 
 
-[https://wump.xyz/join?ref=716885746916524062](https://wump.xyz/join?ref=703440366489174127)
-
 完成所有的社交任务，获得更多。这个玩法很想以前Telegram的$DOGS，纯纯白嫖：https://wump.xyz/join?ref=703440366489174127
 
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
