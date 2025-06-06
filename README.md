@@ -62,7 +62,7 @@
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)，空投数据查询：[http://0xnav.com/alpha.html](http://0xnav.com/alpha.html)|
+| 币安    |   [https://www.binance.com](https://www.marketwebb.net/activity/referral-entry/CPA?ref=CPA_00QX29JJW5&utm_source=Lite_web_account)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)，空投数据查询：[http://0xnav.com/alpha.html](http://0xnav.com/alpha.html)|
 | 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)|
 | ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)|
 | Bitget    |   [https://www.bitget.com](https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)   |      Bitget交易所(减免40%手续费)|
