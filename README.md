@@ -34,8 +34,8 @@
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
 | ❤️色色搜索   | [@sesecctv](https://t.me/sesecctv)            | 可以在里面搜索你想要的一切   |
-| 💰portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
-| 💰tonnel_network_bot   | [@portals](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
+| portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
+| tonnel_network_bot   | [@portals](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 撸空投💰币圈💰Web3   | [@tglukongtou](https://t.me/tglukongtou)         | 💰分享最新前沿的空投资讯，奔向财务自由之路 |
