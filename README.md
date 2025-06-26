@@ -59,6 +59,7 @@
 |免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |kaito.ai                         | [@kaito.ai](https://yaps.kaito.ai/referral/1830464307240558592 )          | 嘴撸空投时代，有的KOL在X上发文已经可以做到单撸一期空投收入达到10w U  |
+|Swidge                           |[@Swidge]                                                                  |新手福音：一键换币工具 Swidge 来了！                    |
 
 
 ### 交易所提币或者是购买USDT、币圈撸空投
