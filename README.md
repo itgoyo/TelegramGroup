@@ -38,7 +38,7 @@
 | Portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | Tonnel_network_bot   | [@portals](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | Web3投资学习   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
-| 币圈导航   | [@biquandaohang](https://t.me/biquandaohang)         | 💰分享最新前沿的币圈热门资讯、空投资讯，祝各位奔向财务自由之路 |
+| 币圈导航   | [@biquandaohang](https://t.me/biquandaohang)         | 💰分享最新前沿的币圈热门资讯、空投资讯，祝各位奔向财务自由之路，twitter:[@0xnav_com](https://x.com/0xnav_com)  |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10，稳定30天不掉落  |
