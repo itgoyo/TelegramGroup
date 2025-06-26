@@ -59,7 +59,7 @@
 |免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |kaito.ai                         | [@kaito.ai](https://yaps.kaito.ai/referral/1830464307240558592 )          | 嘴撸空投时代，有的KOL在X上发文已经可以做到单撸一期空投收入达到10w U  |
-|vibes.fun                   | [@vibes.fun](www.vibes.fun/?ref=0xnav_com)          | @KaitoAI之后，又一个嘴撸项目来了，目前还非常早期，速度搞一下！ |
+|vibes.fun                   | [@vibes.fun](https://www.vibes.fun/?ref=0xnav_com)          | @KaitoAI之后，又一个嘴撸项目来了，目前还非常早期，速度搞一下！ |
 |Swidge                           |[@Swidge](https://x.com/HuaiminH50281/status/1938042493804912997)                                                                  |新手福音：一键换币工具 Swidge 来了！                    |
 
 
