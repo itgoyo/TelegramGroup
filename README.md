@@ -51,6 +51,7 @@
 | 反差 | [https://t.me/+hyXPRD0-CwYwY2I0](https://t.me/+hyXPRD0-CwYwY2I0)|  骗子(Scammer)    |
 | 天天约 | [https://t.me/+YB6lqGAnRJNkYjIy](https://t.me/+YB6lqGAnRJNkYjIy)|  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+EuHZU2BZhL1iYTNk](https://t.me/+EuHZU2BZhL1iYTNk)|  骗子(Scammer)    |
+| 同城对对碰 | [https://t.me/+P5zvwAWsSe0yNzM0](https://t.me/+P5zvwAWsSe0yNzM0)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
