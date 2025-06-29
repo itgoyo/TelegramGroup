@@ -64,6 +64,7 @@
 
 ### 交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
+**❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)，空投数据查询：[http://0xnav.com/alpha.html](http://0xnav.com/alpha.html)|
