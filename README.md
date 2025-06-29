@@ -22,6 +22,7 @@
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT          |
+| 虚拟货币投资学习   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://accounts.binance.com/zh-CN/register?ref=896983517)   |
 | 💎电报会员机器人   | [@vip2tgbot](https://t.me/vip2tgbot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
 | 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元|
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
@@ -37,7 +38,6 @@
 | ❤️色色搜索   | [@sesecctv](https://t.me/sesecctv)            | 可以在里面搜索你想要的一切   |
 | Portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | Tonnel_network_bot   | [@portals](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
-| 虚拟货币投资学习   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | 币圈导航   | [@biquandaohang](https://t.me/biquandaohang)         | 💰分享最新前沿的币圈热门资讯、空投资讯，祝各位奔向财务自由之路，twitter:[@0xnav_com](https://x.com/0xnav_com) ，蓝v关注后必互关 |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
