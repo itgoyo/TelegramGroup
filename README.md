@@ -77,7 +77,6 @@
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)|
 
 ![](https://imgur.com/MlRDjeU.png)
-![](https://camo.githubusercontent.com/83f2f4b5aa97e49025676de8dce7b514729e14df50a0fd0e96ffaff3330310fd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6974676f796f2f506963476f526573406d61737465722f696d672f3230323530363031313733393734352e706e67)
 
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
