@@ -50,6 +50,7 @@
 | 天天约 | [https://t.me/+YB6lqGAnRJNkYjIy](https://t.me/+YB6lqGAnRJNkYjIy)|  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+PvYZiMxp-vk0NDE0](https://t.me/+PvYZiMxp-vk0NDE0)|  骗子(Scammer)    |
 | 美女集中营 | [https://t.me/+PjlyVaJbLSlkNTI0](https://t.me/+PjlyVaJbLSlkNTI0)|  骗子(Scammer)    |
+| 万人骑 | [https://t.me/+XHxusehe4vljYjU0](https://t.me/+XHxusehe4vljYjU0)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
