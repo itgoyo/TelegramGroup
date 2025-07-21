@@ -41,7 +41,7 @@
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10，稳定30天不掉落  |
 
-### 曝光不良频道
+### 曝光不良频道，请勿轻信(Scammer)
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
@@ -52,6 +52,8 @@
 | 美女集中营 | [https://t.me/+PjlyVaJbLSlkNTI0](https://t.me/+PjlyVaJbLSlkNTI0)|  骗子(Scammer)    |
 | 万人骑 | [https://t.me/+XHxusehe4vljYjU0](https://t.me/+XHxusehe4vljYjU0)|  骗子(Scammer)    |
 | 91姐姐 | [https://t.me/+ZcZtTQ8BZXJlMDFl](https://t.me/+ZcZtTQ8BZXJlMDFl)|  骗子(Scammer)    |
+| 每日大赛 | [https://t.me/+huGkNU2Tdi1mNmEx](https://t.me/+huGkNU2Tdi1mNmEx)|  骗子(Scammer)    |
+| 女大学生 | [https://t.me/+3J1tOQ5iPawxM2Rk](https://t.me/+3J1tOQ5iPawxM2Rk)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
