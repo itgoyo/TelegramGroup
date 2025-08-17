@@ -125,6 +125,10 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 备注: Windows, macOS, Linux 系统的电脑都可以使用   Telegram Desktop 版本客户端.(macOS 上 Mac App Store 中的 ”Telegram Desktop” 已更名为 ”Telegram Lite”)
 
+## 电报安全隐私设置，新手入门必看
+
+视频参考：https://www.youtube.com/watch?v=eocSf5ZHIUw
+
 ## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
 
 视频参考：https://www.youtube.com/watch?v=-Bz9amW-iZQ
