@@ -254,6 +254,7 @@ I am requesting for removal of account limitations.
 | NoAdsBot              | [@autodeletead_bot](https://t.me/autodeletead_bot/)                 | 自动删除群组中的广告消息                   |
 | 查特皮皮鸡            | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT/)                   | 基于OpenAI和Google Cloud AI Platform的反垃圾机器人 |
 | We Group Bot          | [@WeGroupRobot](https://t.me/WeGroupRobot/)                         | 多功能的群组管理机器人                     |
+| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
 | CaptchatBot           | [@Captchat_Bot](https://t.me/Captchat_Bot/)                         | 新成员验证码机器人，避免广告骚扰           |
 | The Join Captcha Bot  | [@join_captcha_bot](https://t.me/join_captcha_bot/)                 | 入群验证机器人                             |
 | Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
