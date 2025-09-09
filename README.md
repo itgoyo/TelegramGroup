@@ -432,9 +432,10 @@ I am requesting for removal of account limitations.
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
 | 币圈日报 | https://t.me/bidaily | 币圈日报-每日最前沿的币圈新闻资讯 |
+| 撸空投💰币圈💰Web3💰财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
+| 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
-| 撸空投💰币圈💰Web3💰财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
 | 币世界快讯【区块链】 | https://t.me/NewsCoinSpace | 区块链 币世界快讯 |
 | 吴说区块链 新闻与深度 | https://t.me/wublock | 提供专业可信的行业新闻与优... |
 | BlockBeats | https://t.me/theblockbeats | BlockBeats-专业的区块链研究... |
@@ -546,7 +547,7 @@ I am requesting for removal of account limitations.
 | LIF's Group - 须知 | https://t.me/MyAndroidTools | 无描述 |
 | Tg攝影社群 | https://t.me/photographyintelegram | 電報攝影群組，歡迎熱愛攝影、當代攝影、當代藝術的朋友加入。不歡迎：老法師 |
 | 知日讀者群 | https://t.me/zhijapan | 无描述 |
-| 加密货币与区块链讨论群 | https://t.me/onBlockchain | 加密货币与区块链频道： https//t.me/knowBlockchain |
+| 加密货币与区块链讨论群 | https://t.me/jmhbgroup | 加密货币与区块链频道： https//t.me/biquandaohang |
 | NF讨论群 | https://t.me/netflixchina | 无描述 |
 | Gate.io的小伙伴們 | https://t.me/gate_io | 歡迎！這裡是Gate芝麻開門的華語官方社群。Gate生態相關的一切我們都可以在這裡討論哦！ 新用戶請點擊�... |
 | Speechlessness | https://t.me/thespeechless | Just sharing beautiful quotes |
@@ -1028,7 +1029,7 @@ I am requesting for removal of account limitations.
 *   美剧交流群:[https://t.me/SSKMJBTS](https://t.me/SSKMJBTS)
 *   Tg 攝影社群:[https://t.me/photographyintelegram](https://t.me/photographyintelegram)
 *   知日讀者群:[https://t.me/zhijapan](https://t.me/zhijapan)
-*   加密货币与区块链讨论群:[https://t.me/onBlockchain](https://t.me/onBlockchain)
+*   加密货币与区块链讨论群:[https://t.me/jmhbgroup](https://t.me/jmhbgroup)
 *   Netflix 讨论群:[https://t.me/netflixchina](https://t.me/netflixchina)
 *   Netflix 讨论:[https://t.me/joinchat/C94vkUP2WbygEhA59U4mZA](https://t.me/joinchat/C94vkUP2WbygEhA59U4mZA)
 *   gate.io 的小伙伴们:[https://t.me/gate_io](https://t.me/gate_io)
@@ -1178,7 +1179,7 @@ I am requesting for removal of account limitations.
 *   Nathosts 主机交流群:[https://t.me/nathosts](https://t.me/nathosts)
 *   键盘交流群:[https://t.me/keyboard_cn](https://t.me/keyboard_cn)
 *   闲蛋面板🥚交流群:[https://t.me/xdzzmb](https://t.me/xdzzmb)
-*   加密货币爱好者:[https://t.me/twittercryptofans](https://t.me/twittercryptofans)
+*   加密货币爱好者:[https://t.me/jmhbgroup](https://t.me/jmhbgroup)
 
 ### 播客
 *   一天世界:[https://t.me/ipn_yitianshijie](https://t.me/ipn_yitianshijie)
