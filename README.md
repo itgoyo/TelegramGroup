@@ -41,6 +41,7 @@
 | 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
+| 免费亚马逊云服务器 | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年高速云服务器     |
 
 ### 曝光不良频道，请勿轻信(Scammer)
 | 名字       | 链接                                                                 | 功能描述                                   |
