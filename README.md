@@ -48,13 +48,16 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
-| 天天约 | [https://t.me/+QnxR39vELHJiYzUy](https://t.me/+QnxR39vELHJiYzUy)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+HA8t3dDVSX9iZGI0](https://t.me/+HA8t3dDVSX9iZGI0)|  骗子(Scammer)    |
-| 美女集中营 | [https://t.me/+d6O8SYEbfVoyNWRk](https://t.me/+d6O8SYEbfVoyNWRk)|  骗子(Scammer)    |
-| 万人骑 | [https://t.me/+qwcHNtFiW6JmNGI8](https://t.me/+qwcHNtFiW6JmNGI8)|  骗子(Scammer)    |
-| 每日大赛 | [https://t.me/+lnYBD5jAswpjMDM0](https://t.me/+lnYBD5jAswpjMDM0)|  骗子(Scammer)    |
-| 女大学生 | [https://t.me/+uF_w9QZJxd44ZDZk](https://t.me/+uF_w9QZJxd44ZDZk)|  骗子(Scammer)    |
+| 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
+| 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+cK8sJ83ib1M2M2Zi](https://t.me/+cK8sJ83ib1M2M2Zi)|  骗子(Scammer)    |
+| 美女集中营 | [https://t.me/+qtnO1Cqjcjo5ZTU0](https://t.me/+qtnO1Cqjcjo5ZTU0)|  骗子(Scammer)    |
+| 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
+| 每日大赛 | [https://t.me/+0ns42wc9C8g2MmY0](https://t.me/+0ns42wc9C8g2MmY0)|  骗子(Scammer)    |
+| 女大学生 | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0)|  骗子(Scammer)    |
+| 培训基地 | [https://t.me/+JV_e00siA6A5NzE0](https://t.me/+JV_e00siA6A5NzE0)|  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+LpD7-7rV3LxjZWRk](https://t.me/+LpD7-7rV3LxjZWRk)|  骗子(Scammer)    |
+| 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
