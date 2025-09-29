@@ -75,7 +75,7 @@
 | SuperBiu  |        [注册链接](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
 | CAC Apex  |       [注册链接](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
 | 老猫云       |        [注册链接](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
-| 放心云       |      [注册链接](hhttps://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
+| 放心云       |      [注册链接](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
 | 易连VPN     |         [注册链接](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
 | 狗狗云       | [注册链接](https://www.gougouvpn.top/index.php#/register?code=HnqZeoHA) | 老牌公益VPN，稳定品质                                  |
 | 起帆        |         [注册链接](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
