@@ -64,6 +64,41 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 
+### 机场节点推荐
+| 名字        |                                  链接                                 | 功能描述                                          |
+| :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
+| 狗狗加速      |       [注册链接](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
+| 耐思云       |  [注册链接](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
+| 600mlh矿泉水 |         [注册链接](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
+| River VPN |    [注册链接](https://v5w6x7.river-vpn.ink/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
+| FlyBit    |       [注册链接](https://www.flybit3.vip/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
+| SuperBiu  |        [注册链接](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
+| CAC Apex  |       [注册链接](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
+| 老猫云       |        [注册链接](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
+| 放心云       |      [注册链接](hhttps://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
+| 易连VPN     |         [注册链接](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
+| 狗狗云       | [注册链接](https://www.gougouvpn.top/index.php#/register?code=HnqZeoHA) | 老牌公益VPN，稳定品质                                  |
+| 起帆        |         [注册链接](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
+| Tomcat    |        [注册链接](https://teacat.cloud/#/register?code=wcln0rZa)        | 12元50GB，性价比选择                                 |
+| 飞兔云       |   [注册链接](https://xn--9kq10e0y7h.site/index.html?register=eA38wttl)  | 60+国家节点，全中转，高速稳定，解锁流媒体和ChatGPT                |
+| 淘气兔       |     [注册链接](https://www.taoqitu.me/index.html?register=1ab3e6wq)     | 全中转线路，4K秒开，解锁流媒体/ChatGPT                      |
+| FreeCloud |           [注册链接](https://asus.im/#/register?code=gzE3PgDa)          | 按流量计费不限时，解锁流媒体                                |
+| 红杏加速器     |      [注册链接](https://hongxingyun.xyz/web/#/login?code=wbzHC0lN)      | 高速稳定VPN                                       |
+| FSCloud   |      [注册链接](https://dash.996cloud.top/#/register?code=14lShPOs)     | 1元100G，超高性价比                                  |
+| 烤肠云       |     [注册链接](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG)    | 1元2G测试套餐                                      |
+| M78星云     |        [注册链接](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
+| OKCLOUD机场 |        [注册链接](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
+| 魔戒        |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
+| MDSSCLOUD |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | IEPL/CC/BGP专线，最高3000Mbps，强大SLA保证              |
+| 尼尔云       |        [注册链接](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
+| 青云梯机场     |     [注册链接](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
+| 飞天猪       |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
+| v2lnk     |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | 免费试用，一键连接，解锁GPT                               |
+| NiceDuck  |        [注册链接](https://my.niceduck.io/register?code=b5QXpg3C)        | 高SLA，支持流媒体/ChatGPT，赠送3家Emby资源                 |
+| Hostbrr   |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
+| BuyVM     |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
+| RackBerd  |           [注册链接](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
+
 ### 交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 
