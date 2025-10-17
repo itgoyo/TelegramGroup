@@ -205,6 +205,57 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 | App title     | zhuanfabotsxxx                              |
 | Short name    | zhuanfabotsxxx                              |
 
+>免费可用的api key、api hash
+```
+nagram:
+api-id: 11535358
+api-hash: 33d372962fadb01df47e6ceed4e33cd6
+
+telegram-android:
+api-id: 4
+api-hash: 014b35b6184100b085b0d0572f9b5103
+
+telegram-desktop:
+api-id: 2040
+api-hash: b18441a1ff607e10a989891a5462e627
+
+telegram-swift:
+api-id: 10840
+api-hash: 33c45224029d59cb3ad0c16134215aeb
+
+telegram-messenger-plus:
+api-id: 16623
+api-hash: 8c9dbfe58437d1739540f5d53c72ae4b
+
+telegram-x:
+api-id: 21724
+api-hash: 3e0cb5efcd52300aec5994fdfc5bdc16
+
+telegram-web-k:
+api-id: 1025907
+api-hash: 452b0359b988148995f22ff0f4229750
+
+telegram-web:
+api-id: 2496
+api-hash: 8da85b0d5bfe62527e5b244c209159c3
+
+PublicStaticFinal:
+api-id: 5
+api-hash: 1c5c96d5edd401b1ed40db3fb5633e2d
+
+Distributed-Android:
+api-id: 6
+api-hash: eb06d4abfb49dc3eeb1aeb98ae0f581e
+
+Public-iOS-Beta:
+api-id: 8
+api-hash: 7245de8e747a0d6fbe11f7cc14fcc0bb
+
+Nicegram:
+api-id: 94575
+api-hash: a3406de8d171bb422bb6ddf3bbd800e2
+```
+
 ### Telegram钱包|虚拟信用卡
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
