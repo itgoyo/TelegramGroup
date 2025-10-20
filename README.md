@@ -69,6 +69,7 @@
 ### 机场节点推荐
 | 名字        |                                  链接                                 | 功能描述                                          |
 | :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
+| 闪连VPN      |       [官网](https://lightningxvpn.com/download?inviteCode=55151480)      | VPN首选！提供安全、稳定和快速的网络连接 |
 | 狗狗加速      |       [官网](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
 | 耐思云       |  [官网](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
 | 600mlh矿泉水 |         [官网](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
