@@ -60,7 +60,8 @@
 | 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
 | 贫困少女 | [https://t.me/+qwcHNtFiW6JmNGI8](https://t.me/+qwcHNtFiW6JmNGI8)|  骗子(Scammer)    |
 | 围场少女 | [https://t.me/+QnxR39vELHJiYzUy](https://t.me/+QnxR39vELHJiYzUy)|  骗子(Scammer)    |
-| 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0 ](https://t.me/+9UtuvRgMTGc5MmM0 )|  骗子(Scammer)    |
+| 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
+| 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
