@@ -203,7 +203,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 ### 4. Giffgaff 手机卡
 
-### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@tgxiunv](https://t.me/tgxiunv)
+### Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功) 
 
 官网申请API: https://my.telegram.org/auth?to=apps
 
