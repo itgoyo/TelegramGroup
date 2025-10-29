@@ -15,34 +15,35 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|Comet| [@Comet](https://pplx.ai/itgoyo31345)| 1.点击链接注册。2.下载并打开 Comet 浏览器，随便对话2-3次（自动激活Pro）。3.在 Comet 里生成你的专属邀请链接，开始拉新10$/人。|
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如发送"中文包"，就会自动返回对应的中文包资源 |
-| SOSO机器人  | [@soso](https://t.me/sosoo?start=a_7202424896)                     | 发送关键词来寻找群组、频道或视频，在名字后面添加SOSO，在机器人里面的赚钱可以白嫖0.5USDT          |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源，老牌搜索机器人超级索引邀请好友，参与五级拉新裂变赢USDT！新人使用直接领取1.88U！！(完成1次有效搜索) 👉[官方搜索群](https://t.me/+kt8DCh74ZmA0ZTc9)，搜索不留任何痕迹，放心搜索，[超级索引大群](https://t.me/+sGP3pPNzsdkxMGM8)    |
-| 极搜JiSou  | [@jisou](https://t.me/jisou?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
-| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT          |
-| 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
-| WEB3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) twitter：[https://x.com/crypto_bxs](https://x.com/crypto_bxs) |
-| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   
-| 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
-| 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用币安、欧易等交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元，别的钱包转账不返还也不会充值，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费。充值通知群:[@tgviptongzhi](https://t.me/tgviptongzhi)|
-| 🚀免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
-| 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
-| 免费频道搬运机器人   |免费机器人[@xnby05bot](https://t.me/xnby05bot)            | 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容，搭建历史成交记录[@banyunchanel](https://t.me/banyunchanel) 不会使用可以找[@tgxiunv](https://t.me/tgxiunv)帮搬运，10U/一个频道，监听转发一个频道5u/月 |
-| 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
-| 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
-| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
-| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| 色色搜索   | [@sesecctv](https://t.me/sesecctv)            | 可以在里面搜索你想要的一切   |
-| 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
-| 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
-| Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
-| 免费亚马逊云服务器 | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年高速云服务器，[biliup](https://www.bilibili.com/video/BV1XqHkzCEpN/)可实现自动录制全网直播    |
+| **Comet** | [@Comet](https://pplx.ai/itgoyo31345) | 点击链接注册 → 下载并打开 Comet 浏览器对话 2–3 次自动激活 Pro → 生成邀请链接，拉新可得 $10/人 |
+| **极搜 JiSo** | [@jiso](https://t.me/jiso?start=a_7202424896) | 输入关键词搜索群、频道、视频、音乐、电影、新闻等资源 |
+| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
+| **超级索引** | [@CJSY](https://t.me/CJSY?start=7202424896) | 搜索群组/频道资源，五级拉新赢 USDT，新人首搜得 1.88 U → [官方群](https://t.me/+kt8DCh74ZmA0ZTc9) · [大群](https://t.me/+sGP3pPNzsdkxMGM8) |
+| **极搜 JiSou** | [@jisou](https://t.me/jisou?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **Super 搜索** | [@Super](https://t.me/Super?start=ref-7202424896) | 查找群组、频道、影视、音乐或机器人 |
+| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
+| **快搜 Kuai** | [@kuai](https://t.me/kuai?start=ad_7202424896) | 搜索群组、视频、电影、音乐、新闻等资源 |
+| **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
+| **WEB3 撸空投** | [@tglukongtou](https://t.me/tglukongtou) | 每日空投更新、教程与安全指南 → [官网](https://web3.0xnav.com) · [X/Twitter](https://x.com/crypto_bxs) |
+| **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [官网](https://www.0xnav.com) |
+| **💎 电报会员机器人** | [@kttgvip_bot](https://t.me/kttgvip_bot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人 |
+| **💎 手动充值会员** | [shop.tg10000.com](http://shop.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
+| **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
+| **🌈 彩虹群发器** | [购买链接](https://shop.tg10000.com/buy/1) | 群发工具，支持多账号切换，适合推广 |
+| **波场 TRX 靓号** | [shop.tg10000.com](https://shop.tg10000.com/) | 出售顺子/豹子靓号，支持多签保障安全 |
+| **免费频道搬运机器人** | [@xnby05bot](https://t.me/xnby05bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 |
+| **超级索引搜索群** | [索引搜索群](https://t.me/+kt8DCh74ZmA0ZTc9) | 可在群内直接搜索任意资源 |
+| **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源 |
+| **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源 |
+| **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索 |
+| **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源 |
+| **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源 |
+| **色色搜索** | [@sesecctv](https://t.me/sesecctv) | 搜索任意资源 |
+| **👚 AI 去衣机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF) | AI 换装/换脸/视频换脸，一键生成，模型最新 |
+| **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
+| **Telegram 僵尸粉** | [@tgxiunv](https://t.me/tgxiunv) | 1000 人 ¥10（约 1.4 U），稳定 30 天不掉粉 |
+| **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年，可搭建 [biliup 录制系统](https://www.bilibili.com/video/BV1XqHkzCEpN/) |
+
 
 ### 曝光不良频道，请勿轻信(Scammer)
 | 名字       | 链接                                                                 | 功能描述                                   |
