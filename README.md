@@ -24,7 +24,7 @@
 | **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
 | **快搜 Kuai** | [@kuai](https://t.me/kuai?start=ad_7202424896) | 搜索群组、视频、电影、音乐、新闻等资源 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
-| **WEB3 撸空投** | [@tglukongtou](https://t.me/tglukongtou) | 每日空投更新、教程与安全指南 → [官网](https://web3.0xnav.com) · [X/Twitter](https://x.com/crypto_bxs) |
+| **WEB3 撸空投** | [@tglukongtou](https://t.me/tglukongtou) | 每日空投更新、教程与安全指南 → [官网](https://web3.0xnav.com) |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [官网](https://www.0xnav.com) |
 | **💎 电报会员机器人** | [@kttgvip_bot](https://t.me/kttgvip_bot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人 |
 | **💎 手动充值会员** | [shop.tg10000.com](http://shop.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
