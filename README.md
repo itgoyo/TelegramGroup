@@ -40,7 +40,7 @@
 | **👚 AI去衣机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF) | AI 换装/换脸/视频换脸，一键生成，模型最新 |
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **Telegram 僵尸粉** | [@tgxiunv](https://t.me/tgxiunv) | 1000 人 ¥10（约 1.4 U），稳定 30 天不掉粉 |
-| **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年，可搭建 [biliup 录制系统](https://www.bilibili.com/video/BV1XqHkzCEpN/) |
+| **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/campaigns/free-tier?trk=5b281063-2f34-41ce-81e9-725090bee2f2&sc_channel=sm) | 免费试用6个月的亚马逊云科技服务器 |
 
 
 ### 曝光不良频道，请勿轻信(Scammer)
