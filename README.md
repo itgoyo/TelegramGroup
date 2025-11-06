@@ -541,9 +541,10 @@ I am requesting for removal of account limitations.
 | 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
+| BlockBeats律动 | https://t.me/blockbeatslvdong| BlockBeats-专业的区块链研究... |
+| 金十数据 闪电资讯⚡️ | https://t.me/jin10shandian | 金十数据资讯推送 |
 | 币世界快讯【区块链】 | https://t.me/NewsCoinSpace | 区块链 币世界快讯 |
 | 吴说区块链 新闻与深度 | https://t.me/wublock | 提供专业可信的行业新闻与优... |
-| BlockBeats | https://t.me/theblockbeats | BlockBeats-专业的区块链研究... |
 | 币圈财经新闻 | https://t.me/Btc_789 | 【CoinNews社群导航】@coinne... |
 | 币圈动态 | https://t.me/biquan321 | 讨论群组；https://t.me/biqu... |
 | Web3汇总-币价/NFT/空投 | https://t.me/newsforbitcoin | Web3 讨论群————https://t.me... |
@@ -553,10 +554,8 @@ I am requesting for removal of account limitations.
 | Crypto News & Tech Updates | https://t.me/Crypto_News_and_Tech_Updates | '#1 Source For Crypto Educat...' |
 | Financial News And Report | https://t.me/financialnews666 | 平时主要发国内外宏观策略 固... |
 | Business & Finance News USA Edition | https://t.me/news_finance | The source for business new... |
-| 金十数据 | https://t.me/jin10data | 金十数据资讯推送 |
 | 财经慢报 | https://t.me/Financial_Express | 附属群组 @Financial_Express... |
 | ⚡️ 7×24投资快讯 | https://t.me/golden_wind_news | 24 小时投资相关的快讯 |
-| 金十数据 闪电资讯 | https://tgdriver.com/sites/453.html | 实时推送【金十数据】 7x24小... |
 | 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
 | 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
 | TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
