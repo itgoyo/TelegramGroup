@@ -77,11 +77,9 @@
 | :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
 | 闪连VPN      |       [官网](https://lightningxvpn.com/download?inviteCode=55151480)      | VPN首选！提供安全、稳定和快速的网络连接 |
 | 狗狗加速      |       [官网](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
-| 耐思云       |  [官网](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
-| 600mlh矿泉水 |         [官网](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
-| River VPN |    [官网](https://v5w6x7.river-vpn.ink/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
-| FlyBit    |       [官网](https://www.flybit3.vip/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
-| SuperBiu  |        [官网](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
+| River VPN |    [官网](https://dash.hbwqf.com/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
+| FlyBit    |       [官网](https://www.52fb.xyz/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
+| SuperBiu  |        [官网](https://biubiux.online/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
 | CAC Apex  |       [官网](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
 | 老猫云       |        [官网](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
 | 放心云       |      [官网](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
@@ -98,7 +96,6 @@
 | M78星云     |        [官网](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
 | OKCLOUD机场 |        [官网](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
 | 魔戒        |         [官网](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
-| MDSSCLOUD |         [官网](https://mojie.info/#/register?code=vv0sB50W)         | IEPL/CC/BGP专线，最高3000Mbps，强大SLA保证              |
 | 尼尔云       |        [官网](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
 | 青云梯机场     |     [官网](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
 | 飞天猪       |  [官网](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
