@@ -27,7 +27,7 @@
 | **WEB3 撸空投** | [@tglukongtou](https://t.me/tglukongtou) | 每日空投更新、教程与安全指南 → [官网](https://web3.0xnav.com) |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [官网](https://www.0xnav.com) |
 | **💎 电报会员机器人** | [@kttgvip_bot](https://t.me/kttgvip_bot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人 |
-| **💎 手动充值会员** | [shop.tg10000.com](http://shop.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
+| **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
 | **波场 TRX 靓号** | [shop.tg10000.com](https://shop.tg10000.com/) | 出售顺子/豹子靓号，支持多签保障安全 |
