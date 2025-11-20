@@ -22,6 +22,7 @@
 | **Super 搜索** | [@Super](https://t.me/Super?start=ref-7202424896) | 查找群组、频道、影视、音乐或机器人 |
 | **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务|
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **WEB3 撸空投** | [@tglukongtou](https://t.me/tglukongtou) | 每日空投更新、教程与安全指南 → [官网](https://web3.0xnav.com) |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [官网](https://www.0xnav.com) |
@@ -41,7 +42,6 @@
 | **👚 AI去衣机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF) | AI 换装/换脸/视频换脸，一键生成，模型最新 |
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
-| **Telegram 僵尸粉** | [@tgxiunv](https://t.me/tgxiunv) | 1000 人 ¥10（约 1.4 U），稳定 30 天不掉粉 |
 | **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/campaigns/free-tier?trk=5b281063-2f34-41ce-81e9-725090bee2f2&sc_channel=sm) | 免费试用6个月的亚马逊云科技服务器 |
 
 
