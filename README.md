@@ -19,6 +19,7 @@
 | **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | **极搜 JiSou** | [@jisou](https://t.me/jisou?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | **Super 搜索** | [@Super](https://t.me/Super?start=ref-7202424896) | 查找群组、频道、影视、音乐或机器人 |
+| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
