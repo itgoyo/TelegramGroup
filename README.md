@@ -43,6 +43,7 @@
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 | **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/campaigns/free-tier?trk=5b281063-2f34-41ce-81e9-725090bee2f2&sc_channel=sm) | 免费试用6个月的亚马逊云科技服务器 |
+| 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
 
 
 ### 曝光不良频道，请勿轻信(Scammer)
