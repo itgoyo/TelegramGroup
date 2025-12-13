@@ -123,7 +123,7 @@
 | 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xnanniubot](https://t.me/xnanniubot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
 | 频道搬运机器人   |机器人[@xnby08bot](https://t.me/xnby08bot) | 100U |
-| 频道监听转发机器人   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制 | 100U |
+| 频道监听转发机器人   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U |
 | tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
 | 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥100           |
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
