@@ -38,7 +38,7 @@
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索 |
 | **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源 |
 | **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源 |
-| **💄 色色搜索** | [@sesesearchgroup](https://t.me/sesesearchgroup) | 搜索任意资源 |
+| **电报搜索群** | [@sesesearchgroup](https://t.me/sesesearchgroup) | 搜索任意资源 |
 | **👚 AI去衣机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF) | AI 换装/换脸/视频换脸，一键生成，模型最新 |
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
