@@ -32,6 +32,8 @@
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
 | **波场 TRX 靓号** | [shop.tg10000.com](https://shop.tg10000.com/) | 出售顺子/豹子靓号，支持多签保障安全 |
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 |
+| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) |
+| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) |
 | **超级索引搜索群** | [索引搜索群](https://t.me/+kt8DCh74ZmA0ZTc9) | 可在群内直接搜索任意资源 |
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源 |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源 |
