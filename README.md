@@ -114,7 +114,7 @@
 | 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)邀请码：**4VLKDMW**|
 | Bitget    |   [https://www.bitget.com](https://share.glassgs.com/u/4BUM7GXX)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
-| Gate.io    |   [https://www.gatesee.com](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103)   |     Gate.io交易所(减免40%手续费)邀请码：**VLDFUFEOAW**|
+| Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
 | 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 
