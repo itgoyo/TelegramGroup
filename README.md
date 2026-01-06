@@ -396,6 +396,7 @@ I am requesting for removal of account limitations.
 | 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
+| 抽奖机器人      | [@MyLuckyStar8_Bot](https://t.me/MyLuckyStar8_Bot)       | 抽奖机器人  |
 
 #### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
