@@ -1352,23 +1352,6 @@ I am requesting for removal of account limitations.
 
 ### 地区群
 
-*   深圳:[https://t.me/shenzhenbot?start=join](https://t.me/shenzhenbot?start=join)
-*   深圳:[https://t.me/shenzhentg](https://t.me/shenzhentg)
-*   北京:[https://t.me/beijingz](https://t.me/beijingz)
-*   广州:[https://t.me/GuangzhouIT](https://t.me/GuangzhouIT)
-*   四川:[https://t.me/civhuanglaoxiao](https://t.me/civhuanglaoxiao)
-*   川渝:[https://t.me/chongqing_sichuang](https://t.me/chongqing_sichuang)
-*   西安:[https://t.me/XianCity](https://t.me/XianCity)
-*   南宁:[https://t.me/NanNingTG](https://t.me/NanNingTG)
-*   滕州:[https://t.me/tengzhou](https://t.me/tengzhou)
-*   烟台:[https://t.me/yantaiinfo](https://t.me/yantaiinfo)
-*   湖南:[https://t.me/hunantg](https://t.me/hunantg)
-*   济南:[https://t.me/jinan_tg](https://t.me/jinan_tg)
-*   郑州:[https://t.me/zhengzhoutg](https://t.me/zhengzhoutg)
-*   西安:[https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw](https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw)
-*   河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
-*   河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
-*   杭州电报群|杭州茶馆:[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
 
 ### 其他
 
