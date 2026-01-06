@@ -341,7 +341,7 @@ I am requesting for removal of account limitations.
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 按钮机器人                | [@buttonfree_bot](https://t.me/buttonfree_bot/)                 | 轻松给你的帖子加上各种按钮，永久免费试用         |
+| **AI去👚机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8) | AI 换装/换脸/视频换脸，一键生成 |
 | nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
 | Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
 | Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
