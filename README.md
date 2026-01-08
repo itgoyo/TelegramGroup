@@ -33,13 +33,13 @@
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 |
 | **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) |
 | **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) |
-| **超级索引搜索群** | [索引搜索群](https://t.me/+kt8DCh74ZmA0ZTc9) | 可在群内直接搜索任意资源 |
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源 |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源 |
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索 |
 | **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源 |
 | **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源 |
 | **电报搜索群** | [@sesesearchgroup](https://t.me/sesesearchgroup) | 搜索任意资源 |
+|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
