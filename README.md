@@ -30,9 +30,6 @@
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
 | **波场 TRX 靓号** | [shop.tg10000.com](https://shop.tg10000.com/) | 出售顺子/豹子靓号，支持多签保障安全 |
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 |
-| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) |
-| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) |
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源 |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源 |
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索 |
@@ -54,6 +51,7 @@
 | 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
 | 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
 | 女大学生 | [https://t.me/+uWx6poYPtJgxZjM0](https://t.me/+uWx6poYPtJgxZjM0)|  骗子(Scammer)    |
+| 女主播 | [https://t.me/+bvYzyqDEk61jMTI0](https://t.me/+bvYzyqDEk61jMTI0)|  骗子(Scammer)    |
 | 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
 | 贫困少女 | [https://t.me/+qwcHNtFiW6JmNGI8](https://t.me/+qwcHNtFiW6JmNGI8)|  骗子(Scammer)    |
 | 围场少女 | [https://t.me/+WLcJFbgcpPoxNWU0](https://t.me/+WLcJFbgcpPoxNWU0)|  骗子(Scammer)    |
@@ -123,6 +121,9 @@
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
+| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 |
+| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) |
+| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) |
 | 修女频道搬运                                | 搬运整个频道10U，自行联系：[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xnanniubot](https://t.me/xnanniubot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
