@@ -65,6 +65,8 @@
 | hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
 |奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
 |环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
+|方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
+
 
 
 
