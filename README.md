@@ -128,6 +128,7 @@
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
+|接机器人定制开发|自行联系：[@tgxiunv](https://t.me/tgxiunv)|只接小功能机器人项目开发，大型项目勿扰|
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
 | **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
 | **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel)|
