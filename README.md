@@ -118,7 +118,7 @@
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)邀请码：**4VLKDMW**|
+| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
 | Bitget    |   [https://www.bitget.com](https://share.glassgs.com/u/4BUM7GXX)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
 | Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
 | 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
