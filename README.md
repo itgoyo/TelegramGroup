@@ -62,7 +62,7 @@
 | 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
 | 心动时刻 | [https://t.me/+yZ-o5QNotRYxYmY0](https://t.me/+yZ-o5QNotRYxYmY0)|  骗子(Scammer)    |
 
-### 推广50U/月 
+### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
