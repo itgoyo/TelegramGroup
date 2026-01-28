@@ -849,6 +849,7 @@ I am requesting for removal of account limitations.
 | DataFlair | https://t.me/dataflair | This channel is meant to pr... |
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
+| 精美壁纸，每日更新| https://t.me/free_phone_background | Free beautiful wallpapers 每日更新精美壁纸|
 
 
 ### 京豆
@@ -1808,6 +1809,8 @@ I am requesting for removal of account limitations.
 *   阿里云盘资源发布频道:[https://t.me/shareAliyun](https://t.me/shareAliyun)
 *   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
+*   精选壁纸 @free_phone_background:[https://t.me/free_phone_background](https://t.me/free_phone_background)
+*   精美壁纸 @phoneBackgroundBot:[https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA](https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA)
 
 
 ### 其他
@@ -2244,6 +2247,7 @@ I am requesting for removal of account limitations.
 *   [Telegram Bot List](https://github.com/eternnoir/pyTelegramBotAPI#bots-using-this-api)
 *   [Telegram Bot Store](https://storebot.me/)
 *   [Telegram Bots](https://blog.rawstack.co/post/telegram-bots)
+*   [精美壁纸 @phoneBackgroundBot](https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA)
 
 ## 社交媒体
 
