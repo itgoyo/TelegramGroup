@@ -550,7 +550,7 @@ I am requesting for removal of account limitations.
 | 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
-| BlockBeats律动 | https://t.me/blockbeatslvdong| BlockBeats-专业的区块链研究... |
+| BlockBeats律动 | https://t.me/blockbeats_news| BlockBeats-专业的区块链研究... |
 | 金十数据 闪电资讯⚡️ | https://t.me/jin10shandian | 金十数据资讯推送 |
 | 币世界快讯【区块链】 | https://t.me/NewsCoinSpace | 区块链 币世界快讯 |
 | 吴说区块链 新闻与深度 | https://t.me/wublock | 提供专业可信的行业新闻与优... |
