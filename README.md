@@ -76,9 +76,6 @@
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
-
-
-
 ### 机场节点推荐
 | 名字        |                                  链接                                 | 功能描述                                          |
 | :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
@@ -208,7 +205,9 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 ### 4. Giffgaff 手机卡
 
-### Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功) 演示视频:[https://youtu.be/tsa3P5uDYS4](https://youtu.be/tsa3P5uDYS4)
+### Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功)
+
+闪连vpn成功申请演示视频:[https://youtu.be/tsa3P5uDYS4](https://youtu.be/tsa3P5uDYS4)
 
 <img src="https://cdn.jsdelivr.net/gh/AZeC4/img@master/img/524A4F31-204C-49B5-B96B-FA324435CD87.png" width="400" height="auto">
 
