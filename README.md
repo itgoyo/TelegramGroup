@@ -54,7 +54,7 @@
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
 | 反差 | [https://t.me/+-YC0rd-ao5g1NGFk](https://t.me/+-YC0rd-ao5g1NGFk)|  骗子(Scammer)    |
-| 少萝 | [https://t.me/+LGC6Nr2HUOY3OTZl](https://t.me/+LGC6Nr2HUOY3OTZl)|  骗子(Scammer)    |
+| 少萝 | [https://t.me/+oYKNKbfKggtkYzc0](https://t.me/+oYKNKbfKggtkYzc0)|  骗子(Scammer)    |
 | 女大学生 | [https://t.me/+uWx6poYPtJgxZjM0](https://t.me/+uWx6poYPtJgxZjM0)|  骗子(Scammer)    |
 | 女主播 | [https://t.me/+bvYzyqDEk61jMTI0](https://t.me/+bvYzyqDEk61jMTI0)|  骗子(Scammer)    |
 | 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
