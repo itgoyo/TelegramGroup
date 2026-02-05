@@ -411,7 +411,7 @@ I am requesting for removal of account limitations.
 #### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
+| 按钮机器人      | [@xiunvanniu1bot](https://t.me/xiunvanniu1bot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
 | 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
 | 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
 | 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
