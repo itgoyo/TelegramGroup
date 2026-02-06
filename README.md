@@ -15,11 +15,11 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
-| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **JiSo**  |  [@jiSo](https://t.me/jiso?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如 凡人修仙传 |
+| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
+| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_6294881820) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_6294881820) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
+| 超级索引  | [@CJSY](https://t.me/CJSY?start=6294881820)                  | 发送词语即可搜索关联群组与频道资源     |
+| **JiSo**  |  [@jiSo](https://t.me/jiso?start=a_6294881820)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如 凡人修仙传 |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | 快连      |       [官网](https://8m5tnb.onelink.me/0Iq2/ozre7hac)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
@@ -276,7 +276,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
+| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--6294881820)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
 
 ### 常用机器人
 
@@ -388,14 +388,14 @@ I am requesting for removal of account limitations.
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+|SOSO|[@soso](https://t.me/sosoo?start=a_6294881820)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | ikuaiso     | [@ikuaisobot](https://t.me/ikuaisobot?start=)  | 帮你找到有趣的群、频道、视频、音乐、电影、新闻！ |
-| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_7202424896)  | 查找群组、频道、影视、音乐或机器人。  |
-| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_7202424896)       | 神马索引机器人，可以通过关键词查找  |
-| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=7202424896)        | 帮助您找到感兴趣的群组、频道和机器人！      |
-| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=7202424896)       | 帮助您找到感兴趣的群组、频道和机器人！  |
+| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_6294881820)  | 查找群组、频道、影视、音乐或机器人。  |
+| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_6294881820)       | 神马索引机器人，可以通过关键词查找  |
+| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=6294881820)        | 帮助您找到感兴趣的群组、频道和机器人！      |
+| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=6294881820)       | 帮助您找到感兴趣的群组、频道和机器人！  |
 
 
 #### 群组抽奖机器人
