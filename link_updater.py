@@ -22,10 +22,10 @@ class MarkdownLinkUpdater:
 
     def __init__(
         self,
-        repo_path: "https://github.com/itgoyo/TelegramGroup.git",
-        file_path: "README.md",
-        old_link: "https://t.me/jiso?start=a_7202424896",
-        new_link: "https://t.me/jiso?start=a_6294881820",
+        repo_path: str,
+        file_path: str,
+        link_id_1: str,
+        link_id_2: str,
         interval_min: int = 60,
         interval_max: int = 120,
     ):
@@ -35,17 +35,18 @@ class MarkdownLinkUpdater:
         Args:
             repo_path: GitHub仓库本地路径
             file_path: 要修改的Markdown文件路径（相对于仓库根目录）
-            old_link: 要替换的旧链接
-            new_link: 替换后的新链接
+            link_id_1: 第一个链接ID（默认：7202424896）
+            link_id_2: 第二个链接ID（默认：6294881820）
             interval_min: 最小检查间隔（分钟）
             interval_max: 最大检查间隔（分钟）
         """
         self.repo_path = Path(repo_path).resolve()
         self.file_path = self.repo_path / file_path
-        self.old_link = old_link
-        self.new_link = new_link
+        self.link_id_1 = link_id_1
+        self.link_id_2 = link_id_2
         self.interval_min = interval_min
         self.interval_max = interval_max
+        self.last_replacement = None  # 记录最后一次替换的方向
 
         self._validate_config()
 
@@ -75,14 +76,15 @@ class MarkdownLinkUpdater:
             print(f"错误输出: {e.stderr}")
             return ""
 
-    def _check_changes(self) -> bool:
-        """检查工作区是否有未提交的更改"""
-        status = self._run_git_command(["git", "status"])
-        return "Changes not staged for commit" in status or "Untracked files" in status
+    def _check_file_changes(self) -> bool:
+        """检查目标文件是否有未提交的更改"""
+        status = self._run_git_command(["git", "status", "--porcelain", str(self.file_path)])
+        # 如果有输出，说明文件有未提交的更改
+        return bool(status.strip())
 
     def _update_links(self) -> bool:
         """
-        检查并更新Markdown文件中的链接
+        检查并更新Markdown文件中的链接（轮换替换）
 
         Returns:
             是否成功更新了文件
@@ -91,16 +93,45 @@ class MarkdownLinkUpdater:
             with open(self.file_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            if self.old_link not in content:
-                print(f"未找到需要替换的链接: {self.old_link}")
+            # 构建两个方向的匹配模式
+            pattern_1 = rf'https://t\.me/jiso\?start=a_{re.escape(self.link_id_1)}'
+            pattern_2 = rf'https://t\.me/jiso\?start=a_{re.escape(self.link_id_2)}'
+            
+            # 检查当前文件中存在哪个链接
+            has_link_1 = bool(re.search(pattern_1, content))
+            has_link_2 = bool(re.search(pattern_2, content))
+            
+            if has_link_1 and has_link_2:
+                print(f"文件中同时存在两个链接ID，建议手动检查")
+                return False
+            elif has_link_1:
+                # 找到link_id_1，替换为link_id_2
+                pattern = pattern_1
+                replacement = f'https://t.me/jiso?start=a_{self.link_id_2}'
+                current_id = self.link_id_1
+                target_id = self.link_id_2
+                self.last_replacement = f"{self.link_id_1} -> {self.link_id_2}"
+            elif has_link_2:
+                # 找到link_id_2，替换为link_id_1
+                pattern = pattern_2
+                replacement = f'https://t.me/jiso?start=a_{self.link_id_1}'
+                current_id = self.link_id_2
+                target_id = self.link_id_1
+                self.last_replacement = f"{self.link_id_2} -> {self.link_id_1}"
+            else:
+                print(f"未找到需要替换的jiso链接（{self.link_id_1} 或 {self.link_id_2}）")
                 return False
 
-            updated_content = content.replace(self.old_link, self.new_link)
+            # 执行替换
+            updated_content = re.sub(pattern, replacement, content)
+            
+            # 计算替换次数
+            count = len(re.findall(pattern, content))
 
             with open(self.file_path, "w", encoding="utf-8") as f:
                 f.write(updated_content)
 
-            print(f"成功替换链接: {self.old_link} -> {self.new_link}")
+            print(f"成功替换 {count} 个jiso链接: {current_id} -> {target_id}")
             return True
 
         except Exception as e:
@@ -111,9 +142,7 @@ class MarkdownLinkUpdater:
         """提交更改到本地仓库"""
         try:
             self._run_git_command(["git", "add", str(self.file_path)])
-            commit_msg = (
-                f"自动更新Telegram链接 ({datetime.now().strftime('%Y-%m-%d %H:%M:%S')})"
-            )
+            commit_msg = "add somethings"
             self._run_git_command(["git", "commit", "-m", commit_msg])
             print("提交成功")
             return True
@@ -134,10 +163,10 @@ class MarkdownLinkUpdater:
 
     def run(self) -> None:
         """启动自动更新程序"""
-        print(f"=== Telegram链接自动更新器 ===")
+        print(f"=== Telegram链接自动更新器（轮换模式） ===")
         print(f"仓库: {self.repo_path}")
         print(f"文件: {self.file_path}")
-        print(f"替换: {self.old_link} -> {self.new_link}")
+        print(f"轮换ID: {self.link_id_1} <-> {self.link_id_2}")
         print(f"检查间隔: {self.interval_min}-{self.interval_max}分钟")
         print("-" * 50)
 
@@ -146,17 +175,13 @@ class MarkdownLinkUpdater:
                 current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 print(f"\n[{current_time}] 开始检查...")
 
-                # 检查Git状态
-                if self._check_changes():
-                    print("警告: 工作区有未提交的更改，跳过此轮检查")
+                # 直接尝试更新链接
+                if self._update_links():
+                    # 提交和推送
+                    if self._commit_changes():
+                        self._push_to_remote()
                 else:
-                    # 检查并更新链接
-                    if self._update_links():
-                        # 提交和推送
-                        if self._commit_changes():
-                            self._push_to_remote()
-                    else:
-                        print("不需要更新")
+                    print("不需要更新或更新失败")
 
                 # 随机等待1-2小时
                 wait_time = random.randint(
@@ -185,14 +210,14 @@ def main():
         "file_path", help="要修改的Markdown文件路径（相对于仓库根目录）"
     )
     parser.add_argument(
-        "--old-link",
-        default="https://t.me/jiso?start=a_7202424896",
-        help="要替换的旧链接（默认：https://t.me/jiso?start=a_7202424896）",
+        "--link-id-1",
+        default="7202424896",
+        help="第一个链接ID（默认：7202424896）",
     )
     parser.add_argument(
-        "--new-link",
-        default="https://t.me/jiso?start=a_6294881820",
-        help="替换后的新链接（默认：https://t.me/jiso?start=a_6294881820）",
+        "--link-id-2",
+        default="6294881820",
+        help="第二个链接ID（默认：6294881820）",
     )
     parser.add_argument(
         "--min-interval", type=int, default=60, help="最小检查间隔（分钟，默认：60）"
@@ -207,8 +232,8 @@ def main():
         updater = MarkdownLinkUpdater(
             repo_path=args.repo_path,
             file_path=args.file_path,
-            old_link=args.old_link,
-            new_link=args.new_link,
+            link_id_1=args.link_id_1,
+            link_id_2=args.link_id_2,
             interval_min=args.min_interval,
             interval_max=args.max_interval,
         )
