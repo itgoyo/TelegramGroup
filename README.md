@@ -80,6 +80,7 @@
 | :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量、2块钱月付 |
 | 闪连VPN      |       [官网](https://lightningxvpn.com/download?inviteCode=55151480)      | VPN首选！提供安全、稳定和快速的网络连接 |
+| 一元机场      |       [官网](https://xn--4gq62f52gdss.top/#/register?code=YS37AHYZ)      | 一元一个月，要啥自行车 |
 | 狗狗加速      |       [官网](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
 | River VPN |    [官网](https://dash.hbwqf.com/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
 | FlyBit    |       [官网](https://www.52fb.xyz/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
