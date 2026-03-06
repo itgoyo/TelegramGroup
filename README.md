@@ -32,11 +32,11 @@
 | **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
-| **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源 |
-| **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源 |
-| **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索 |
-| **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源 |
-| **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源 |
+| **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
+| **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **电报搜索群** | [@sesesearchgroup](https://t.me/sesesearchgroup) | 搜索任意资源 |
 | 👚AI换装机器人   | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
