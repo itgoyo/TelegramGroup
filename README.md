@@ -15,7 +15,6 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **自助下单协议号机器人** | [@xieyihaoautobot](https://t.me/xieyihaoautobot) | 不想支付短信费用、或者是想低价购买电报账号的用户可自行下单 |
 | **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
@@ -43,6 +42,7 @@
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
+| **自助下单协议号机器人** | [@xieyihaoautobot](https://t.me/xieyihaoautobot) | 不想支付短信费用、或者是想低价购买电报账号的用户可自行下单 |
 | 群组频道上粉丝人数 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | twitter/x | [@itgoyo](https://x.com/itgoyo) |Don't be a programmer，Be a problem solver|
