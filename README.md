@@ -585,8 +585,8 @@ I am requesting for removal of account limitations.
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
 |🦞OpenClaw小龙虾养殖基地|https://t.me/openclaw_chat|全网最大的openclaw讨论群|
+|Claude Code中文社区|https://t.me/claudecode_cn|全网最大的Claude Code中文社区|
 | 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ 你在元宇宙世界裡的第一個好�... |
-| Vultr 用户群 | https://t.me/vultr_group | Vultr 用户群，非官方 群规 * 禁止传播谣言/盗版 * 禁止撕逼 (谩骂/人身攻击等) * 禁止讨论免流/黄赌毒/宗教... |
 | NewlearnerのIT社群 | https://t.me/NewlearnerGroup | 【注意】加群需经管理同意，完善头像、昵称、简介更容易通过 Main Topics：以 IT 话题为主，包括但不局限�... |
 | 科技圈🎗の 茶馆 | https://t.me/zaihuachat | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�... |
 | 科技圈🎗の 茶馆 | https://t.me/GoogleFans | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�... |
