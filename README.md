@@ -41,7 +41,6 @@
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
 | **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| **电报搜索群** | [@sesesearchgroup](https://t.me/sesesearchgroup) | 搜索任意资源 |
 | 👚AI换装机器人   | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
