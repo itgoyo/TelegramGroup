@@ -139,7 +139,7 @@
 | **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
 | **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=26233nZyAcU)| 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel)|
 | 修女频道搬运                                | 搬运整个频道10U，自行联系：[@tgxiunv](https://t.me/tgxiunv) | 10U   |
-| 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xiunvanniu1bot](https://t.me/xiunvanniu1bot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
+| 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xiunvanniu_bot](https://t.me/xiunvanniu_bot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
 | 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥300           |
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
