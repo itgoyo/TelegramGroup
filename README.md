@@ -23,7 +23,6 @@
 | JiSo机器人  |  [@jiSo](https://t.me/jiso?start=a_7202424896)               | 中文昵称点击有收益，外文昵称不要点击❗️❗️❗️ |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
-| **协议号、直登号自助下单** | [@xieyihaoautobot](https://t.me/xieyihaoautobot) | 不想支付短信费用、或者是想低价购买电报账号的用户可自行下单，协议号-直登号互转软件[tg-transformer](https://github.com/AZeC4/tg-transformer) |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | 快连      |       [官网](https://8m5tnb.onelink.me/0Iq2/ozre7hac)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
 | ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
