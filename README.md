@@ -459,6 +459,7 @@ I am requesting for removal of account limitations.
 #### 下载机器人
 | 名字               | 链接                                           | 功能描述                                   |
 | :---               | :----:                                         | :---                                       |
+|多平台解析下载机器人|[@freedlvideo_bot](https://t.me/freedlvideo_bot)|支持Twitter / X、Instagram、YouTube、Facebook、Threads、Bilibili、抖音 / TikTok、微博、小红书、贴吧、微信公众号、快手、酷安、皮皮虾、最右、小黑盒|
 | 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云音乐下载                        |
 |VmomoVBot音乐机器人|[@VmomoVBot](https://t.me/VmomoVBot)|音乐搜索|
 | 抖音 TikTok 视频图集解析 | [@DouYintg_bot](https://t.me/DouYintg_bot)   | 支持抖音、TikTok、X推特、小红书等视频图集解析，支持去水印 |
