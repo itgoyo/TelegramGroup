@@ -69,6 +69,7 @@
 |deepai                             | [@deepai](https://www.deepai.so/)          | 输入头像生成此人视频  |
 |Ai搜索@AISS                             | [@AISS](https://t.me/AISS)          | 帮你快速定位网页、文档、应用内资源，一键获取所需信息 |
 |运营商大数据                             | [@jsdsj1](https://t.me/jsdsj1)          | 指定网站抓取，指定APP抓取，股票数据，贷款数据，助贷数据   |
+| 监控实盘  | [@jiankongshipan](https://t.me/jiankongshipan)             | 实时跟踪熬鹰、予与、风寻等交易员的实盘监控，实时提醒。开仓、加仓、减仓、平仓（爆仓）都会实时提醒，没推送说明没有操作。  |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
 | hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
