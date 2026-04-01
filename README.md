@@ -21,6 +21,7 @@
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | JiSo机器人  |  [@jiSo](https://t.me/jiso?start=a_7202424896)               | 中文昵称点击有收益，外文昵称不要点击❗️❗️❗️ |
+|Ai搜索@AISS                             | [@AISS](https://t.me/AISS)          | 帮你快速定位网页、文档、应用内资源，一键获取所需信息 |
 | **🚀 免费节点** | [vpndaohang.com](https://vpndaohang.com) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
@@ -67,7 +68,6 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |deepai                             | [@deepai](https://www.deepai.so/)          | 输入头像生成此人视频  |
-|Ai搜索@AISS                             | [@AISS](https://t.me/AISS)          | 帮你快速定位网页、文档、应用内资源，一键获取所需信息 |
 |运营商大数据                             | [@jsdsj1](https://t.me/jsdsj1)          | 指定网站抓取，指定APP抓取，股票数据，贷款数据，助贷数据   |
 | 监控实盘  | [@jiankongshipan](https://t.me/jiankongshipan)             | 实时跟踪熬鹰、予与、风寻等交易员的实盘监控，实时提醒。开仓、加仓、减仓、平仓（爆仓）都会实时提醒，没推送说明没有操作。  |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
