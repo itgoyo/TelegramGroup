@@ -76,7 +76,7 @@
 |奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
 |环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
 |方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
-|Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
+|Agent-Skills|[skills](https://github.com/itgoyo/awesome-claude-code-skills)|收集全网最热门的Agent-Skills项目|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
