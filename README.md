@@ -26,6 +26,7 @@
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | 快连      |       [官网](https://8m5tnb.onelink.me/0Iq2/ozre7hac)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
+|ClaudeCode中转站|[https://shop.xuedingtoken.com](https://shop.xuedingtoken.com/?dist=PGNXFC8B)|ClaudeCode满血版支持Opus 4.61元/1刀，24 小时发货|
 | ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
 | ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)   |
 | 🎧关键字监听机器人   | [@xiunvkwbot](https://t.me/xiunvkwbot)            | ✅ 再也不用担心没有精准客户了🎧 我们监听了上千个群中用户的搜索记录🔥可以为您实时匹配合适的用户|
