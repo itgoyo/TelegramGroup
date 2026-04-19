@@ -55,7 +55,7 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
-| 反差 | [https://t.me/+b1oqEUPvoSE5YTdk](https://t.me/+b1oqEUPvoSE5YTdk)|  骗子(Scammer)    |
+| 反差 | [https://t.me/+_6il9cjOcvcxNTRk](https://t.me/+_6il9cjOcvcxNTRk)|  骗子(Scammer)    |
 | 少萝 | [https://t.me/+crSY4fHTrhg4OGY0](https://t.me/+crSY4fHTrhg4OGY0)|  骗子(Scammer)    |
 | 女主播 | [https://t.me/+p-1a-TJyFhc4NWE0](https://t.me/+p-1a-TJyFhc4NWE0)|  骗子(Scammer)    |
 | 女大学生 | [https://t.me/+9juisuq5nJBhNGNk](https://t.me/+9juisuq5nJBhNGNk)|  骗子(Scammer)    |
