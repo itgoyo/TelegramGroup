@@ -1276,7 +1276,7 @@ I am requesting for removal of account limitations.
 *   Anytype community:[https://t.me/anytype](https://t.me/anytype)
 *   今日热榜:[https://t.me/joinchat/IL6n4w9xiRMvHaU1YpVFog](https://t.me/joinchat/IL6n4w9xiRMvHaU1YpVFog)
 *   西西书屋 精校电子书:[https://t.me/xixishuwu](https://t.me/xixishuwu)
-*   读者・争鸣:[https://t.me/duzhe](https://t.me/duzhe)
+*   读者群:[https://t.me/duzhequn](https://t.me/duzhequn)
 *   Life & Knowledge.:[https://t.me/LifeAndKnowledge](https://t.me/LifeAndKnowledge)
 *   [CN]Flutter Dev:[https://t.me/FlutterCN](https://t.me/FlutterCN)
 *   Infuse 官方中文群:[https://t.me/infusepro6](https://t.me/infusepro6)
