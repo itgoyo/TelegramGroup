@@ -141,6 +141,7 @@
 |接机器人定制开发|自行联系：[@tgxiunv](https://t.me/tgxiunv)|只接小功能机器人项目开发，大型项目勿扰|
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
 | **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
+| **频道监听转发机器人加强版**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，同时支持搬运，AI去广告、AI加标签、AI改写等功能) | 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
 | **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=26233nZyAcU)| 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel)|
 | 修女频道搬运                                | 搬运整个频道10U，自行联系：[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xiunvanniu_bot](https://t.me/xiunvanniu_bot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
