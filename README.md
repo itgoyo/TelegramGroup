@@ -78,6 +78,7 @@
 | hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
 |奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
 |环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
+|智谱GLM|[https://www.bigmodel.cn](https://www.bigmodel.cn/invite?icode=KNHlie%2Fn17uAYsTEOr7TH33uFJ1nZ0jLLgipQkYjpcA%3D)|新用户注册得 2000万 Tokens，新模型免费玩到爽！|
 |方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
 |Agent-Skills|[skills](https://github.com/itgoyo/awesome-claude-code-skills)|收集全网最热门的Agent-Skills项目|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
