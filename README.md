@@ -860,6 +860,8 @@ I am requesting for removal of account limitations.
 *   BIGdongdongGroup:[https://t.me/bigdongdongGroup](https://t.me/bigdongdongGroup)
 *   跳蚤市场 - 科学上网交流等:[http://t.me/PharosMarketShopping](http://t.me/PharosMarketShopping)
 *   普通休闲书籍资源:[http://t.me/bookusefor4](http://t.me/bookusefor4)
+*   Bigo社区群:[https://t.me/bigo_tool](https://t.me/bigo_tool)
+*   Fragment账号实时报价:[https://t.me/Fragment_Monitor](https://t.me/Fragment_Monitor)
 *   PayPal 交流群:[http://t.me/paypal_us](http://t.me/paypal_us)
 *   码力全开 Friends:[http://t.me/forcecoder](http://t.me/forcecoder)
 *   OP 编译官方大群:[https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)
@@ -947,11 +949,6 @@ I am requesting for removal of account limitations.
 *   jdShareCode:[https://t.me/jdShareCode](https://t.me/jdShareCode)
 *   PKC皮卡车:[https://t.me/topstyle996](https://t.me/topstyle996)
 *   Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
-
-### 脚本
-
-*   Bigo社区群:[https://t.me/bigo_tool](https://t.me/bigo_tool)
-*   Fragment账号实时报价:[https://t.me/Fragment_Monitor](https://t.me/Fragment_Monitor)
 
 ### 翻墙
 
@@ -1148,9 +1145,6 @@ I am requesting for removal of account limitations.
 *   KeralaGram:[https://t.me/keralagram](https://t.me/keralagram)
 *   64Gram:[https://t.me/tg_x64](https://t.me/tg_x64)
 *   telegram.Bot:[https://t.me/pythontelegrambotgroup](https://t.me/pythontelegrambotgroup)
-
-### 地区群
-
 
 ### 其他
 
