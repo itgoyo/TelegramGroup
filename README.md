@@ -25,7 +25,7 @@
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
-| 快连      |       [官网](https://8m5tnb.onelink.me/0Iq2/ozre7hac)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
+| River VPN     |       [官网](https://dash.hbwqf.com/#/register?code=wJBT57t1)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
 | ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
 | ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)   |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
