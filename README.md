@@ -36,7 +36,7 @@
 | **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 |
 | **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
+| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
@@ -47,7 +47,7 @@
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
-| 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/banyunchanel) |
+| 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/xiunvyewu) |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 
 <a id="曝光不良频道"></a>
@@ -143,9 +143,9 @@
 | 项目                                       | 说明                                              | 价格            |
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
 |接机器人定制开发|自行联系：[@tgxiunv](https://t.me/tgxiunv)|只接小功能机器人项目开发，大型项目勿扰|
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
-| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
-| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel)|
+| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
+| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/xiunvyewu) |
+| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/xiunvyewu)|
 | 修女频道搬运                                | 搬运整个频道10U，自行联系：[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xiunvanniu1bot](https://t.me/xiunvanniu1bot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
 | 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
