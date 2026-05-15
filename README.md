@@ -31,6 +31,7 @@
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
+| ⚡️TRX闪兑     |       **`TY4etzSftahyH5DYDMq5kDuPs93VVVVVVV`**      | TRX-USDT24小时自动兑换，1U起兑 |
 | ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)   |
 | **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 |
 | **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
