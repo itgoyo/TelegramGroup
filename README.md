@@ -50,7 +50,7 @@
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 | 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/xiunvyewu) |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
-| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡[@tgsim172](https://t.me/tgsim172) |
+| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | [@tgsim172](https://t.me/tgsim172)我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 
 <a id="曝光不良频道"></a>
 ### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
