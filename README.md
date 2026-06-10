@@ -26,7 +26,6 @@
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
-| River VPN     |       [官网](https://dash.hbwqf.com/#/register?code=wJBT57t1)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [币圈导航](https://www.0xnav.com) |
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
