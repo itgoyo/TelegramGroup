@@ -80,6 +80,8 @@
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
+
+
 <!-- NAV_START -->
 # **导航：** 
 
@@ -154,12 +156,6 @@
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
 | 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [https://faka.tg10000.com/item/15#buy](https://faka.tg10000.com/item/15#buy)   | ¥199         |
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
-  <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
-  <img src="https://i.imgur.com/o32jV8y.png" alt="彩虹群发电报神器" style="width: 30%;"/>
-</div>
-
 
 <a id="ios限制群教程"></a>
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
@@ -344,6 +340,14 @@ I am requesting for removal of account limitations.
 >>提醒:
 申诉后，官方会核查你的账户，并根据情况恢复你的账户，但不一定就能解封！
 有人申诉后解封了，有人申诉了多次也未解封，不能一概而论！
+
+### 收录/频道、群组上新 
+
+>¥500或者70U
+
+| 名字       | 链接                                                                 | 功能描述                                   |
+| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+|广告位置                             | 招商客服[@tgxiunv](https://t.me/tgxiunv)          | 广告位招商   |
 
 #### Telegram电报官方
 
