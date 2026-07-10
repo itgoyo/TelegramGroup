@@ -61,6 +61,9 @@
 | 女主播 | [https://t.me/+p-1a-TJyFhc4NWE0](https://t.me/+p-1a-TJyFhc4NWE0)|  骗子(Scammer)    |
 | 女大学生 | [https://t.me/+9juisuq5nJBhNGNk](https://t.me/+9juisuq5nJBhNGNk)|  骗子(Scammer)    |
 | 贫困少女 | [https://t.me/+ankjvKJY36JiMzc0](https://t.me/+ankjvKJY36JiMzc0)|  骗子(Scammer)    |
+| 频道1 | [https://t.me/+Pl1mcJYcz6o4NGI0](https://t.me/+Pl1mcJYcz6o4NGI0)|  骗子(Scammer)    |
+| 频道2 | [https://t.me/+JxKCJs0FzEU3MjZk](https://t.me/+JxKCJs0FzEU3MjZk)|  骗子(Scammer)    |
+| 频道3 | [https://t.me/+xzjOYyuJbNIyYzFk](https://t.me/+xzjOYyuJbNIyYzFk)|  骗子(Scammer)    |
 
 <a id="推广"></a>
 ### 推广 
