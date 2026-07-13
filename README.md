@@ -50,6 +50,7 @@
 | 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/xiunvyewu) |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
+| **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
 
 <a id="曝光不良频道"></a>
 ### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
