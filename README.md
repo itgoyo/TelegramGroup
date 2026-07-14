@@ -16,18 +16,18 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO 机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
-| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
-| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **新币搜索** | [@xbso](https://telegram.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **SOSO 机器人** | [@soso](https://telegram.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
+| **极搜 JiSou** | [@jisou](https://telegram.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **神马搜索（签到送 USDT）** | [@smss](https://telegram.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
+| 超级索引  | [@CJSY](https://telegram.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
+| **搜啦** | [@soula](https://telegram.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
+| **快搜** | [@kuai](https://telegram.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
-| **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [币圈导航](https://www.0xnav.com) |
+| **加密货币交流群** | [@jmhbgroup](https://telegram.me/jmhbgroup) | 加密货币交流 → [币圈导航](https://www.0xnav.com) |
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
@@ -37,18 +37,18 @@
 | **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
 | **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot?start=invite_8105886270) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
-| **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
-| **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| 👚AI换装机器人   | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
-| **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
-| **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
-| **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
+| **搜索群①** | [@sousuo20w](https://telegram.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群②** | [@jiso5173](https://telegram.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群③** | [@jisoubar](https://telegram.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
+| **搜索群④** | [@sepiansousuo](https://telegram.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| **搜索群⑤** | [@kuaisou20w](https://telegram.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
+| 👚AI换装机器人   | [@Xai1314bot](https://telegram.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| **🍉 吃瓜无限** | [@chiguawuxian](https://telegram.me/chiguawuxian) | 实时分享全网最新热门瓜 |
+| **东南亚大全** | [@dongnanyadaquan](https://telegram.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
+| **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://telegram.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
+| **科技第一线** | [@kejidiyixian](https://telegram.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 | 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/xiunvyewu) |
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://telegram.me/tgxiunv)|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 | **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
 
