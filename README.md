@@ -44,6 +44,7 @@
 | **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | 👚AI换装机器人   | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+|淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot)|
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
