@@ -17,12 +17,12 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO 机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
-| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容，投放广告，享受5%的充值优惠👉 [ad_366951](https://t.me/jisou?start=ad_366951)|
+| **SOSO 机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [广告优惠](https://t.me/soso?start=usecode_7202424896)|
+| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容，投放广告，享受5%的充值优惠👉 [广告优惠](https://t.me/jisou?start=ad_366951)|
 | **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
-| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源|
+| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻，投放广告，充值优惠👉 [广告优惠](https://t.me/kuai?start=ad_3B44YPB)|
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
