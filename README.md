@@ -20,10 +20,10 @@
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻|
 | **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源|
 |**海搜**|[@haisou](https://t.me/haisou?start=a_7202424896)|发送关键词，即可发现频道、群组、视频、音乐、图片、文件|
+|TelegramBot|[@TelegramBot](https://github.com/itgoyo/TelegramBot)|Telegram专门的机器人合集，总有一个是你需要的|
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
-| 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，1块100G流量 |
+| 赔钱机场      |       [赔钱机场](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，1块100G流量 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)|
@@ -32,7 +32,6 @@
 | **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星|
 | **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
 | **🌈 彩虹群发器** | [自助下单](https://t.me/caihongautobot) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot?start=invite_8105886270) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)|
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群②** | [@sousou20w](https://t.me/sousou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot)|
@@ -43,7 +42,6 @@
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 |电报Telegram如何赚钱|[telegram-money-making](https://github.com/itgoyo/telegram-money-making)|Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入|
-|TelegramBot|[@TelegramBot](https://github.com/itgoyo/TelegramBot)|Telegram专门的机器人合集，总有一个是你需要的|
 
 <a id="推广"></a>
 ### 推广 
@@ -62,7 +60,7 @@
 <!-- NAV_START -->
 # **导航：** 
 
-[搜索机器人](#搜索机器人) | [推广](#推广) | [机场节点推荐](#机场节点推荐) | [交易所/USDT/空投](#交易所) | [机器人搭建](#机器人搭建) | [iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
+[搜索机器人](#搜索机器人) | [推广](#推广) | [交易所/USDT/空投](#交易所) |[iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
 <!-- NAV_END -->
 
 <a id="交易所"></a>
