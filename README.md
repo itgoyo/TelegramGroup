@@ -63,7 +63,6 @@
 |AI导航站|[https://github.com/itgoyo/awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav)|AI工具集导航收录了国内外数百个不同类型的AI工具|
 |Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
-|不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
 <!-- NAV_START -->
 # **导航：** 
