@@ -9,39 +9,51 @@
 
 <a id="搜索机器人"></a>
 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+### 搜索机器人
+
+| 名字 | 链接 | 功能描述 |
+| :--- | :---: | :--- |
 | **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频|
+| **SOSO机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频 |
 | **JISO机器人** | [@jiso](https://t.me/jiso?start=a_6294881820) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **极搜JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容|
+| **极搜JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | **神马搜索** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
-| **超级索引**  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻|
-| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源|
-|**海搜**|[@haisou](https://t.me/haisou?start=a_7202424896)|发送关键词，即可发现频道、群组、视频、音乐、图片、文件|
-|TelegramBot|[@TelegramBot](https://github.com/itgoyo/TelegramBot)|Telegram专门的机器人合集，总有一个是你需要的|
-| **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
-| 赔钱机场      |       [赔钱机场](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，1块100G流量 |
-| **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
-| **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
-| **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)|
-| **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)   |
-| **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星|
-| **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
-| **🌈 彩虹群发器** | [自助下单](https://t.me/caihongautobot) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
+| **超级索引** | [@CJSY](https://t.me/CJSY?start=7202424896) | 发送词语即可搜索关联群组与频道资源 |
+| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
+| **海搜** | [@haisou](https://t.me/haisou?start=a_7202424896) | 发送关键词，即可发现频道、群组、视频、音乐、图片、文件 |
+
+### 搜索群
+
+| 名字 | 链接 | 功能描述 |
+| :--- | :---: | :--- |
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群②** | [@sousou20w](https://t.me/sousou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
-|淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot)|
+
+### 其他推荐
+
+| 名字 | 链接 | 功能描述 |
+| :--- | :---: | :--- |
+| TelegramBot | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | Telegram专门的机器人合集，总有一个是你需要的 |
+| **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
+| 赔钱机场 | [赔钱机场](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
+| **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网，10000+ AI工具集合，国内外AI工具集导航大全 |
+| **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
+| **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
+| **币安交易所** | [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费) |
+| **欧易交易所** | [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981) | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI** |
+| ⚡️能量机器人 | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
+| **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 |
+| **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
+| **🌈 彩虹群发器** | [自助下单](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
+| 淘宝好物分享频道 | [@taobaohaowu](https://t.me/taobaohaowu) | 每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot) |
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **🎥 阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉|
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) | [电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉 |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
-|电报Telegram如何赚钱|[telegram-money-making](https://github.com/itgoyo/telegram-money-making)|Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入|
+| 电报Telegram如何赚钱 | [telegram-money-making](https://github.com/itgoyo/telegram-money-making) | Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入 |
 
 <a id="推广"></a>
 ### 推广 
