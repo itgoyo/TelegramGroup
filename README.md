@@ -68,7 +68,7 @@
 |方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
 |AI导航站|[https://github.com/itgoyo/awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav)|AI工具集导航收录了国内外数百个不同类型的AI工具|
 |Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
-| **📱 低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
+| **低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 
 <!-- NAV_START -->
 # **导航：** 
@@ -81,7 +81,7 @@
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
+| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981**，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
 | Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
 | Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
@@ -224,7 +224,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 <a id="常用机器人"></a>
 ### 常用机器人
 
-🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
+Telegram专门的机器人合集：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
 
 
 #### 联系 Telegram 官方/客服:
@@ -304,7 +304,7 @@ I am requesting for removal of account limitations.
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **AI去👚机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8) | AI 换装/换脸/视频换脸，一键生成 |
+| **AI去机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8) | AI 换装/换脸/视频换脸，一键生成 |
 | nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
 | Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
 | Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
@@ -340,8 +340,8 @@ I am requesting for removal of account limitations.
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | ikuaiso     | [@ikuaisobot](https://t.me/ikuaisobot?start=)  | 帮你找到有趣的群、频道、视频、音乐、电影、新闻！ |
 | aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_7202424896)  | 查找群组、频道、影视、音乐或机器人。  |
 | 神马索引机器人      | [@smss](https://t.me/smss?start=spread_7202424896)       | 神马索引机器人，可以通过关键词查找  |
@@ -429,7 +429,7 @@ I am requesting for removal of account limitations.
 #### 其他有趣机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+|  AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 |  libot  | [@libot](https://telegram.me/libot?start=6294881820)       | 游戏娱乐平台|
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 | 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
@@ -498,9 +498,9 @@ I am requesting for removal of account limitations.
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
 | 币圈日报 | https://t.me/bidaily | 币圈日报-每日最前沿的币圈新闻资讯 |
-| 撸空投💰币圈💰Web3💰财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
+| 撸空投币圈Web3财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
 | 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
-| 金十数据 闪电资讯⚡️ | https://t.me/jin10shandian | 金十数据资讯推送 |
+| 金十数据 闪电资讯 | https://t.me/jin10shandian | 金十数据资讯推送 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
 | BlockBeats律动 | https://t.me/blockbeats_news| BlockBeats-专业的区块链研究... |
@@ -514,12 +514,12 @@ I am requesting for removal of account limitations.
 | Financial News And Report | https://t.me/financialnews666 | 平时主要发国内外宏观策略 固... |
 | Business & Finance News USA Edition | https://t.me/news_finance | The source for business new... |
 | 财经慢报 | https://t.me/Financial_Express | 附属群组 @Financial_Express... |
-| ⚡️ 7×24投资快讯 | https://t.me/golden_wind_news | 24 小时投资相关的快讯 |
+|  7×24投资快讯 | https://t.me/golden_wind_news | 24 小时投资相关的快讯 |
 | 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
 | 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
 | TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
 | 85.60×53.98卡粉订阅/提醒 | https://t.me/DocOfCard | 85.60×53.98卡粉群：@DocOfCa... |
-| 走资世界🅥news | https://t.me/banktoworldnews | 私聊都是骗子！ 涉及黄、黑... |
+| 走资世界news | https://t.me/banktoworldnews | 私聊都是骗子！ 涉及黄、黑... |
 | 数字货币安全出入金交流 | https://t.me/joinchat/AYS860xmKnoyZWRk | 本群主要讨论数字货币安全出... |
 | 无卡不欢订阅频道 | https://t.me/cardfans | 本頻道为无卡不欢订阅频道，... |
 | 无卡不欢交流群 | https://t.me/cardfansgroup | 今天睡地板，明天当老板！加... |
@@ -535,44 +535,44 @@ I am requesting for removal of account limitations.
 
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
-|🦞OpenClaw小龙虾养殖基地|https://t.me/openclaw_chat|全网最大的openclaw讨论群|
+|OpenClaw小龙虾养殖基地|https://t.me/openclaw_chat|全网最大的openclaw讨论群|
 |Claude Code中文社区|https://t.me/claudecode_cn|全网最大的Claude Code中文社区|
-| 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ 你在元宇宙世界裡的第一個好... |
+| 大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方連結請慎點！ 你在元宇宙世界裡的第一個好... |
 | NewlearnerのIT社群 | https://t.me/NewlearnerGroup | 【注意】加群需经管理同意，完善头像、昵称、简介更容易通过 Main Topics：以 IT 话题为主，包括但不局限... |
-| 科技圈🎗の 茶馆 | https://t.me/zaihuachat | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳... |
-| 科技圈🎗の 茶馆 | https://t.me/GoogleFans | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳... |
+| 科技圈の 茶馆 | https://t.me/zaihuachat | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳... |
+| 科技圈の 茶馆 | https://t.me/GoogleFans | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳... |
 | 逗比据地根 | https://t.me/doubi | 无描述 |
 | 中文输入法爱好者群 | https://t.me/IME_zhCN | 无描述 |
 | sspai_group | https://t.me/sspai_group | 无描述 |
 | iBeta 尝鲜派 \| 官方群 | https://t.me/ibetame | iBeta 尝鲜派（BetaHub.cn）的官方群组。欢迎大家关注 @ibeta_channel |
-| 🍳 库克的后厨 🍤 | https://t.me/OnlineAppleUserGroup |  Online Apple User Group ⚠️ 如果您被错误封禁，请联系 @cook_kitchen_chef_bot 本群组由 Apple 员工、极客、开发... |
-| 🎣 科技无国界 🤼‍♂️ | https://t.me/LifeAnaTech | 科技无国界，人生不是戏。 🚫 禁止私发广告 🚫 禁止违规违法信息 置顶必看：https//t.me/o1xinsight/783 主理... |
+|  库克的后厨  | https://t.me/OnlineAppleUserGroup |  Online Apple User Group  如果您被错误封禁，请联系 @cook_kitchen_chef_bot 本群组由 Apple 员工、极客、开发... |
+|  科技无国界  | https://t.me/LifeAnaTech | 科技无国界，人生不是戏。  禁止私发广告  禁止违规违法信息 置顶必看：https//t.me/o1xinsight/783 主理... |
 | 赚客吧 有奖一起赚 | https://t.me/zuanke8 | 全网电商平台，优惠促销打折海淘BUG价活动线报，各大支付APP支付活动折扣及时推送，京东、苏宁、淘宝... |
 | Apple Watch 大集合 | https://t.me/apple_watch | Apple Watch 用户群 |
 | Apple TV | https://t.me/AppleTVPlus | Apple TV 用户交流群 |
 | Apple Arcade CN | https://t.me/applearcadecn | Apple Arcade中文交流群，欢迎各位Apple Arcade爱好使用者加入，本群可提供家庭组车位共享。 |
-|  Apple 用户社群 | https://t.me/appleusergroup_tg | 探讨 Apple 硬件、软件产品，包括新闻、谣言、意见和分析及相关问题解答。 👽Reddit 社群：reddit.com/r/appleu... |
-| TVBox | https://t.me/TVbox888 | Tvbox \| 猫影视TV \| 网络接口 只做一件事，解放你的电视。 配置在群组👉 @maoyingshi |
-| 三星手机交流 | https://t.me/samsung_cn | 三星手机搞机群.欢迎来搞机. ⚠️禁止血腥暴力、色情、赌博、广告, 禁止政治讨论撕逼，违者直接封禁！... |
-| 智能手机讨论组📱 | https://t.me/M_Phone | 智能手机讨论组，主要讨论各种手机，禁止买卖手机。加群有加减法问题验证，防止广告机器人，请正确... |
+|  Apple 用户社群 | https://t.me/appleusergroup_tg | 探讨 Apple 硬件、软件产品，包括新闻、谣言、意见和分析及相关问题解答。 Reddit 社群：reddit.com/r/appleu... |
+| TVBox | https://t.me/TVbox888 | Tvbox \| 猫影视TV \| 网络接口 只做一件事，解放你的电视。 配置在群组 @maoyingshi |
+| 三星手机交流 | https://t.me/samsung_cn | 三星手机搞机群.欢迎来搞机. 禁止血腥暴力、色情、赌博、广告, 禁止政治讨论撕逼，违者直接封禁！... |
+| 智能手机讨论组 | https://t.me/M_Phone | 智能手机讨论组，主要讨论各种手机，禁止买卖手机。加群有加减法问题验证，防止广告机器人，请正确... |
 | 小米玩机交流群 | https://t.me/xiaomi6666 | 频道： @MiResources 群聊禁色情、辱骂、广告、外挂、黑产！ 买机注意： 1、去官网看参数，测评不建议看送... |
 | 飞享一刻｜频道 | https://t.me/w37fhy | 【加入讨论群：https//t.me/fhyw37】同时欢迎访问官网：https//w37fhy.cn，获得更多资源分享及最新福利资讯！ |
 | mini club | https://t.me/Orz_mini | mini频道：https//t.me/Orzmini |
-| 手机里有一款开放世界手游 | https://t.me/Orz_zayu | 💡已开放 🚫禁止广告、键政、对线、乞讨、肛交。 音乐频道 @ZAYU_music 一个好朋友的频道 @pingrangTV |
+| 手机里有一款开放世界手游 | https://t.me/Orz_zayu | 已开放 禁止广告、键政、对线、乞讨、肛交。 音乐频道 @ZAYU_music 一个好朋友的频道 @pingrangTV |
 | Rust 众 | https://t.me/rust_zh | 本频道是 Rust（编程语言）中文讨论群的入口 |
-| 东京IT技术者交流群 | https://t.me/TokyoIT | ❴TokyoIT讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】🈲️色情、🈲️广告、🈲️黑产、🈲️推广群链... |
+| 东京IT技术者交流群 | https://t.me/TokyoIT | ❴TokyoIT讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】色情、广告、黑产、推广群链... |
 | PixelExperience - Official chat | https://t.me/pixelexperiencechat | Welcome to PixelExperience official chat Group rules ? Type /rules Website get.pixelexperience.org Twitter twitter.com/PixelExpRom Github gi... |
 | GIF 群聚地 | https://t.me/GIFgroupTW | 灰色地帶管理群持保留解釋權力|
-| 貼圖群 - 進群閱置頂 Sticker Group Taiwan | https://t.me/StickerGroup | 🥇新手教學 @StartzeroTG 🥈本群規定 telegra.ph/Sticker-Group-Rule-03-22 🥉本群連結 t.me/StickerGroup |
+| 貼圖群 - 進群閱置頂 Sticker Group Taiwan | https://t.me/StickerGroup | 新手教學 @StartzeroTG 本群規定 telegra.ph/Sticker-Group-Rule-03-22 本群連結 t.me/StickerGroup |
 | V2EX后花园 v2.0 | https://t.me/goV2EX | 纯净版V2群：谢绝政治话题讨论，专注技术和侃大山。 常年踢不活跃用户，误封申诉 @nekobenben |
 | V2EX 交流群 | https://t.me/V2EXPro | 程序员、分享创造、问与答 |
-| Appinn Talk 💧 | https://t.me/appinn | 小众软件 appinn.com 本群链接： https//t.me/appinn 新消息频道： https//t.me/appinnfeed 公开群，禁开漏点车； 禁止... |
-| BDD@Tech | https://t.me/bigdongdongGroup | 🚫禁止任何政治内容&NSFW内容&攻击辱骂他人的行为将永久移至小黑屋 🔰管理员有权在任何时候无理由以... |
-| YouTube—ImShuker | https://t.me/shukerz | ⚠️⚠️⚠️进群请先看⚠️⚠️⚠️ 群内禁止发送色情图片、视频、链接 禁止讨论政治 理性发言|
-| Notion 中文社区 | https://t.me/Notionso | 💡 以 Notion 为主，围绕 Notion 效率工具、经验为辅。核心围绕提升个人生活、工作效率来进行讨论。 - 申... |
+| Appinn Talk  | https://t.me/appinn | 小众软件 appinn.com 本群链接： https//t.me/appinn 新消息频道： https//t.me/appinnfeed 公开群，禁开漏点车； 禁止... |
+| BDD@Tech | https://t.me/bigdongdongGroup | 禁止任何政治内容&NSFW内容&攻击辱骂他人的行为将永久移至小黑屋 管理员有权在任何时候无理由以... |
+| YouTube—ImShuker | https://t.me/shukerz | 进群请先看 群内禁止发送色情图片、视频、链接 禁止讨论政治 理性发言|
+| Notion 中文社区 | https://t.me/Notionso |  以 Notion 为主，围绕 Notion 效率工具、经验为辅。核心围绕提升个人生活、工作效率来进行讨论。 - 申... |
 | 电报人:对事不对人，不得贬低群员 | https://t.me/three001 | 群宗旨信息分享,了解世界,强大自己 群规则 1.不可攻击群员，不能水群 2.多研究问题，少谈主义 3.多分享... |
 | Google Drive 无限容量 | https://t.me/google_drive | 本群提供无限容量 Google Drive 申请方法、大电影小电影电子书无损音乐等资源。 This group provides ways to get unl... |
-| 读舍 - 享受阅读时光 | https://t.me/shufm | 读舍：享受阅读时光，畅谈读书心得 🌍 网站 https//shu.fm 📻 播客：苹果播客｜小宇宙｜Google Podcast｜Spotify... |
+| 读舍 - 享受阅读时光 | https://t.me/shufm | 读舍：享受阅读时光，畅谈读书心得  网站 https//shu.fm  播客：苹果播客｜小宇宙｜Google Podcast｜Spotify... |
 | 写作交流 | https://t.me/writing_discuss | 关键词：阅读 写作 交流 如果给你寄一本书， 我不会寄给你诗歌 ， 我要给你一本关于植物，关于庄稼的 ... |
 | iGame 游戏交流群 | https://t.me/gamecn | 天下玩家是一家。这里是游戏爱好者的交流群，讨论游戏限于： * PC游戏(Steam)，核心向游戏和独立游戏 * ... |
 | 电影爱好者交流 | https://t.me/Moviemarket_group | 电影爱好者 https//t.me/MovieAnywhere |
@@ -582,28 +582,28 @@ I am requesting for removal of account limitations.
 | Flippy_Openwrt | https://t.me/openwrt_flippy | Flippy的Openwrt/Armbian固件 进群链接：https//t.me/joinchat/WTWXSt_bMW0xHQZE 有事进群问，别在帖子下面的讨论组里问... |
 | 安卓手机交流圈 | https://t.me/androidsee | 无描述 |
 | Google Fi 交流群 | https://t.me/google_fi | 无描述 |
-| 字谈字畅听众群 | https://t.me/TypeChat | 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客，The Type 出品，开播于 2015年9月🎙 |
+| 字谈字畅听众群 | https://t.me/TypeChat | 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客，The Type 出品，开播于 2015年9月 |
 | Ruby 中文圈 | https://t.me/rubycn | 无描述 |
 | polyhedron | https://t.me/polyhedron | polyhedron 的自媒體備份。有事請聯繫telegram 的 @ngiamzsjit 或進入我的“半地穴式聊天室”留言（當前鏈接 http... |
 | 骚音世界 | https://t.me/listentotheworld | 來自「」的即時通訊，傳遞音樂、音響和其他任何相關或不相關的事。 The yada yada. |
 | NickTalk | https://t.me/nicktalk | 格物致知，興趣相投，記錄關於政治、科技和人文奇思妙想。 |
 | iOS | https://t.me/iOSdevotee | 1不是不能聊政治，关键这里不是Twitter 结构松散，发的消息别人都被动接受，所以考虑这是一个群，考虑... |
 | macOS 交流组 | https://t.me/macoser | Setapp 开车、二手软件交易、使用经验交流 |
-|  iPad 用户社群 | https://t.me/iPadOS | 苹果 iPadOS 操作系统用户社群。 ⭐️App Store 应用推荐：t.me/app_store 💬Apple 社群：t.me/AppleUserGroup_tg 🈲广告... |
+|  iPad 用户社群 | https://t.me/iPadOS | 苹果 iPadOS 操作系统用户社群。 App Store 应用推荐：t.me/app_store Apple 社群：t.me/AppleUserGroup_tg 广告... |
 | 苹果派群组 | https://t.me/iOS1314 | 专注于苹果手机平板电脑、iOS、iPadOS、MacOS系统软件、升级降级、刷机解锁、越狱美化、应用推荐、使用教... |
 | 苹果用户交流群→MacOS/iPadOS/iOS | https://t.me/Balancer996 | ~为了让交流更多效率： - 鼓励有价值的内容、有深度的思考 - 鼓励友善、互相帮助、努力学习的氛围 - 分... |
 | Synology/黑群晖用户群 | https://t.me/nasfan | 更多教程请访问论坛 https//www.openos.org Signal备用群(防失联) https//signal.group/#CjQKII8GHyope_N-X7unx51u_gJAllYr7W0omdKt6J... |
 | GroupHub Chat | https://t.me/GroupHub_Chat | 广播站 @GroupHub |
 | 中国数字时代-讨论群 | https://t.me/cdtchinese | 中国数字时代：http//cdt.media 官方名片：http//cdt.media 官方推特账号：https//twitter.com/CDTChinese 本站现已开通可... |
 | Google Voice 交流群 | https://t.me/googlevoice | 讨论 Google Voice 号码使用的方法、技巧，以及提供相关服务资讯、商家介绍等 不允许任何推广（仅 GV 允许... |
-| Google Voice 互拨交流群 | https://t.me/zh_GV | 💚 本群讨论 GV 相关话题，以及互拨保号。 ⚠️ 本群暂不贩卖号码，也禁止任何贩售信息。允许讨论购买... |
+| Google Voice 互拨交流群 | https://t.me/zh_GV |  本群讨论 GV 相关话题，以及互拨保号。  本群暂不贩卖号码，也禁止任何贩售信息。允许讨论购买... |
 | Google Fans Club 中文 | https://t.me/googlecn | 语言 简体中文/正体中文/繁体中文 語言 簡體中文/正體中文/繁體中文 Language Chinese 发广告者可能会被禁言... |
 | M-Team Unofficial chat - Chinese | https://t.me/M_Team_Chat | 公吿區 https//t.me/M_Team 疑難雜症請看 https//wiki.m-team.cc/ 站點問題請至 https//ticket.m-team.io 廣告行為說明 https//... |
 | NAS私有云技术交流 | https://t.me/NASteam | 无描述 |
 | 路由器固件玩家群 | https://t.me/sbxsw | 共建国外服务器，速度联系 |
 | Java 编程语言 | https://t.me/Javaer | Java 一种物件导向程式设计编程语言 ，不是 JAV 群（SFW） pin：https//t.me/Javaer/470283 申请入群须经审核，请确... |
 | Android Dev | https://t.me/AndroidDevCn | 仅限 Android 开发话题。请勿闲聊，闲聊请进入下述群。 隔壁群 Android discuss @AndroidDiscuss @AndroidDress 开发闲... |
-| android Discuss \| 辣鸡谷歌还我甜点 🌶🐓🌾🕊 | https://t.me/AndroidDiscuss | 日常闲聊水 和其他任意讨论瞎扯 少喷政治多发情 消歧义 少>别大量洗版刷屏地 喷>无脑骂负面内容 少喷>... |
+| android Discuss \| 辣鸡谷歌还我甜点  | https://t.me/AndroidDiscuss | 日常闲聊水 和其他任意讨论瞎扯 少喷政治多发情 消歧义 少>别大量洗版刷屏地 喷>无脑骂负面内容 少喷>... |
 | Geeks Chat | https://t.me/geeksChat | Meeting point for Geeks! - Only English is allowed. Rules https//t.me/geeksChat/738834 @GeeksChannel |
 | NS Xbox PS PC游戏闲聊 | https://t.me/NintendoSwitchCN | 我们一起来游戏 本群不欢迎任何广告，专注NS主机、Xbox主机和游戏若干年，欢迎常年在线的朋友加入管理... |
 | CoolApk World \| 酷安 | https://t.me/Riocoolapk | 非酷安官方群组 群组日志 @CWLOG 群组规定 https//t.me/c/1247493529/475086 The English group rules https//t.me/Riocoolapk/96286 ... |
@@ -620,9 +620,9 @@ I am requesting for removal of account limitations.
 | Koolcenter merlin firmware | https://t.me/xbchat | 华硕、网件路由器 Merlin 第三方固件讨论群 * Merlin for Asus * Merlin for Netgear name-image-generator-taiwindcss.html name-im... |
 | RouterGroup\|软路由\|硬路由\|外贸电视 | https://t.me/ruanlu | 频道：https//t.me/routergroup 置顶：https//t.me/ruanlu/6608 |
 | ss-panel | https://t.me/SSpanel | 无描述 |
-| 阿里云交流群 | https://t.me/Balancer985 | v2ray机场推荐：高墙期间依然坚挺！国外场主搭建的全中转节点 50+节点 全节点解锁 Netflix、HBONOW、Hulu ！✔... |
-| 微软云(Azure)交流群 | https://t.me/Balancer211 | v2ray机场推荐：高墙期间依然坚挺！50+ 全中转节点 全节点解锁 Netflix、HBONOW、Hulu ！✔️20元 一个月 优质... |
-| 谷歌云(Gcp)交流群 | https://t.me/Balancer166 | v2ray机场推荐：高墙期间依然坚挺！50+节点 全节点解锁 Netflix、HBONOW、Hulu ！✔️20元 一个月，客服全天7*24... |
+| 阿里云交流群 | https://t.me/Balancer985 | v2ray机场推荐：高墙期间依然坚挺！国外场主搭建的全中转节点 50+节点 全节点解锁 Netflix、HBONOW、Hulu ！... |
+| 微软云(Azure)交流群 | https://t.me/Balancer211 | v2ray机场推荐：高墙期间依然坚挺！50+ 全中转节点 全节点解锁 Netflix、HBONOW、Hulu ！20元 一个月 优质... |
+| 谷歌云(Gcp)交流群 | https://t.me/Balancer166 | v2ray机场推荐：高墙期间依然坚挺！50+节点 全节点解锁 Netflix、HBONOW、Hulu ！20元 一个月，客服全天7*24... |
 | Jailbreak | https://t.me/iOS_Jailbreak | iOS 越狱交流群，也可以约基撩妹！ 但请不要讨论与政治有关话题！ 更严禁打广告和色情内容，一次警告... |
 | iOS 越狱 | https://t.me/iOS_jailbreaking | iOS 越狱玩家交流群 |
 | 自由世界之声 | https://t.me/TetgramC | 頻道 https//t.me/hao_tg123 自由世界 https//t.me/Hk_ziyou |
@@ -631,28 +631,28 @@ I am requesting for removal of account limitations.
 | wikipedia-zh-game | https://t.me/wikipedia_zh_game | 中文維基遊戲群組。群組規則「請見置頂消息」。已有遊戲：狼人殺、阿瓦隆、Uno、1A2B、偵探任務、屏風... |
 | 臺大維基社 | https://t.me/ntuwpc | 這裡是國立臺灣大學維基研究社Telegram群，與Libera IRC頻道... |
 | Vedio Talk | https://t.me/VedioTalkGroup | 无描述 |
-| 利器 👨🏻‍💻👩‍💻 🧤 | https://t.me/fun_makers | 利器社群在 TG 上的分支。 欢迎分享 iOS / macOS / android / Windows 平台的优秀软件和解决方案。 |
+| 利器   | https://t.me/fun_makers | 利器社群在 TG 上的分支。 欢迎分享 iOS / macOS / android / Windows 平台的优秀软件和解决方案。 |
 | Coolapk Chat Group | https://t.me/coolapkxianliao | 欢迎新人哦(๑•̀ㅂ•́)و✧ 本群非酷安官方群哦 有事私聊或艾特 @Hakurei_Reimu233 |
 | 酷安 | https://t.me/cool_apk | 禁止人身攻击 |
 | Digital Immigrants丨Want Want Lobby | https://t.me/Licensess | 迎宾处 |
-| 合租社群-Netflix\|YouTube\|Spotify \|office365\|Hbo\|Surge\|美剧\|等音乐影视聊天机场电影盒子软路由 | https://t.me/hezu1 | 合租指南 https//hezu.wiki 敬请关注通知频道 @hezu2 📣聊天群规如下： 1️⃣本群属于合租交流群，禁止讨论政... |
+| 合租社群-Netflix\|YouTube\|Spotify \|office365\|Hbo\|Surge\|美剧\|等音乐影视聊天机场电影盒子软路由 | https://t.me/hezu1 | 合租指南 https//hezu.wiki 敬请关注通知频道 @hezu2 聊天群规如下： 本群属于合租交流群，禁止讨论政... |
 | 品云合租 | https://t.me/PinYunHeZu | 品云合租群 审核Bot @PinYunHZ_bot |
-| 合租小车🚗 | https://t.me/TogetherHub | 无描述 |
+| 合租小车 | https://t.me/TogetherHub | 无描述 |
 | 流媒体交流 | https://t.me/zxc1017yyfx | Gv Gmail 美区礼品卡 https//taohao.me @googlevoicebao |
 | Freetrial.store | https://t.me/FreetrialStore | 售前售后请私聊 @Freetrialstore_bot 本群通知频道 @freetrialsell 自助购买链接：https//freetrial.store |
 | EhViewer [DEPRECATED] | https://t.me/ehviewer | EhViewer・DEPRECATED・交流群 不信谣，不传谣； 莫发广告，拒绝黄图； 文明用语，不准打架； 同则相亲，异... |
-| 谷歌、微软云盘讨论群 | https://t.me/google_win | 自助购物 https//888f.store 前缀修改 @pjassistantbot ★本群 🈲黄 🈲暴 🈲广告 🈲涉及政治话题 https//t.me/Remux_21... |
-| Via Official Group | https://t.me/viatg | ⚠️This group is deprecated, please join the new group https//t.me/+LIsVxUtr3wxiMmI1 ⚠️该群组已废弃，请加入新群组： htt... |
+| 谷歌、微软云盘讨论群 | https://t.me/google_win | 自助购物 https//888f.store 前缀修改 @pjassistantbot ★本群 黄 暴 广告 涉及政治话题 https//t.me/Remux_21... |
+| Via Official Group | https://t.me/viatg | This group is deprecated, please join the new group https//t.me/+LIsVxUtr3wxiMmI1 该群组已废弃，请加入新群组： htt... |
 | Magisk 吹水 (unofficial) | https://t.me/magiskCNshare | 老鸽频道： @XposedCN @magiskCN 大咕群组： @xposedCNshare 请不要在本群内发起与Magisk毫无关系的话题～ |
 | Spotify Addict Group | https://t.me/spotifyaddict | Spotify Addict Group 本群邀请链接 https//t.me/spotifyaddict Spotify 资讯频道： https//t.me/spotifynews S.A.G 公共歌单： http... |
 | 峰哥分享引导频道 | https://t.me/fengsharegroup | 本频道只是个指引频道, 加群请点以下链接! https//t.me/joinchat/ICF7eki3974uTl6GL8hJzg |
-| TG技术党 | https://t.me/MRHXPJ | 🏳️‍🌈本群主题：包括但不限于关于美区APP代购、TIKTOK、机场、吹水、不露点NSFW等…同时讨论任何有... |
+| TG技术党 | https://t.me/MRHXPJ | 本群主题：包括但不限于关于美区APP代购、TIKTOK、机场、吹水、不露点NSFW等…同时讨论任何有... |
 | ARM&X86&VPS&聊车玩家交流群，专业！ | https://t.me/PIN1Group | 无描述 |
-| 小声读书 ☘ | https://t.me/what_youread | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份... |
+| 小声读书  | https://t.me/what_youread | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份... |
 | 全能搜索专属中文无码 电子书 频道 群组 | https://t.me/ziyuanfengxiang59 | 已经开起自动删除模式 更加隐私的搜索 合作 解封 找 书 @Qeqe_bot |
 | 好读-ReadFine交流总群 | https://t.me/ReadfineChat | 频 道 @Readfine 交流群 @ReadfineChat 好读提供电子书一站式阅读体验，一键下载，享受读趣。在这里因为有您... |
 | 读书分享 | https://t.me/dushufenxiang_chat | 群规： 1. 请友好交流，讨论请尽量点出重点，想好再说。无论是读书分享，影视音乐，科学自然，旅游轶... |
-| zread 读书会 📚 | https://t.me/zread | ❤️ 欢迎书友们 或许你正在寻觅， 那一隅祥和。 或许你正在等待， 那心之静谧。 畅游书海，以书会友... |
+| zread 读书会  | https://t.me/zread |  欢迎书友们 或许你正在寻觅， 那一隅祥和。 或许你正在等待， 那心之静谧。 畅游书海，以书会友... |
 | Chinese Developers | https://t.me/ChineseDevelopers | 中国开发者交流群 |
 | BAT 大家庭 | https://t.me/china_net_group | 无描述 |
 | 韭菜防区 Ashare_irl | https://t.me/China_irl | 流浪防区 China_irl 官方群，已与r/china_irl太监区割席。已割席！*太监和浪友别来错地方* 1. 不要人身攻击、... |
@@ -660,15 +660,15 @@ I am requesting for removal of account limitations.
 | vKvHxAkW | https://t.me/huochesiji | 无描述 |
 | Google Voice讨论组 | https://t.me/swatpc1 | 本讨论组旨在为指引新人了解 北美电话卡、Google Voice的入门，探讨使用中遇到的一般问题和其他需注意的... |
 | 专业Linux | https://t.me/professionallinux | 无描述 |
-| 酸奶机场VPN-SSR2.0✈️NSFW🔞 | https://t.me/ssruSSR | 无描述 |
+| 酸奶机场VPN-SSR2.0NSFW | https://t.me/ssruSSR | 无描述 |
 | 拾趣 | https://t.me/peekfun | 分享一点有趣的事情、有用的东西 |
 | 苹果旧版交流 | https://t.me/xinapp | 无描述 |
 | Amazon 海淘购物交流群 | https://t.me/firstAmazon | 美亚(美国亚马逊)代购、拼单、转运、优惠劵、Fire TV Stick 团购、海淘交流。 |
 | Cloudflare 在中国 | https://t.me/CN_Cloudflare | Cloudflare在中国的用户（站长）交流群 我们聊：关于站长周边/开发者资源（工具、脚本、源码）、VPS/WAF/CDN... |
-| 左罗·TG·交流 | https://t.me/zuoluotv | ZUOLUOTV 专属交流群 ✅ 避免广告骚扰，请联系群主@luolei 说明来意，验证通过方可入群 TECH / TRAVEL / LIFESTYLE Y... |
+| 左罗·TG·交流 | https://t.me/zuoluotv | ZUOLUOTV 专属交流群  避免广告骚扰，请联系群主@luolei 说明来意，验证通过方可入群 TECH / TRAVEL / LIFESTYLE Y... |
 | 91yun.co 大海航行靠舵手 | https://t.me/im91yun | 询问Google能解决的问题、自己动手能操作试一试解决的问题一律飞机票，去bbs问问题无限制。 主站 https//ww... |
 | 正规群| https://t.me/zhenggui | 主机群（VPS、独立服务器、虚拟主机、域名等） 本群为新手向，但是提问前仍请做一些功课。 网站：https/... |
-| 🤣古博 - 靠谱VPS交流群（禁止名字打广告） | https://t.me/guboorg | VPS测速，评测，推荐 VPS补货推荐通知 https//t.me/vpscang www.gubo.org www.vpscang.com 友情推荐 @liyuans |
+| 古博 - 靠谱VPS交流群（禁止名字打广告） | https://t.me/guboorg | VPS测速，评测，推荐 VPS补货推荐通知 https//t.me/vpscang www.gubo.org www.vpscang.com 友情推荐 @liyuans |
 | Technical Blog \| 技術博客 | https://t.me/Technical_Blog | 无描述 |
 | 微基主机讨论组 - 原50KVM/50VZ | https://t.me/network50_chat | 无描述 |
 | Nathosts主机交流群 | https://t.me/nathosts | Nathosts官方讨论群 官网www.nathosts.com |
@@ -689,7 +689,7 @@ I am requesting for removal of account limitations.
 | 岁寒输入法交流群 | https://t.me/SuiHanIME | 欢迎岁寒输入法的初学者和爱好者到... |
 | hyperapp | https://t.me/hyperapp | 无描述 |
 | Docker | https://t.me/dockertutorial | Docker 学习\|交流\|分享 Docker \| Moby \| Docker... |
-| Pin apps | https://t.me/PinTG | 在这里讨论 Pin 和 JSBox 等应用 📌提问... |
+| Pin apps | https://t.me/PinTG | 在这里讨论 Pin 和 JSBox 等应用 提问... |
 | 奇点 | https://t.me/jidian | 欢迎来到奇点用户群！ 这是一个面向... |
 | 雷神之锤 | https://t.me/thorshu | Thor 官方群已转为私群，本群仅仅是为... |
 | KidO | https://t.me/Pythonista3jiaoliuqun | itsfeobot ! |
@@ -709,8 +709,8 @@ I am requesting for removal of account limitations.
 | Mixin Network (XIN) | https://t.me/MixinCommunity | Mixin Network solves the problems of slow transact... |
 | 52破解信息 | https://t.me/wuaipojie | 无描述 |
 | Launch Center Pro 交流分享 | https://t.me/lcpapp | Launch Center Pro 交流分享群，欢迎大家... |
-| Reddigram | https://t.me/reddigram | ❌NO SPAM ❌NO NSFW ❌NO EMOJI ❌NO SELFIES ... |
-| 🇬🇧 Nicegram Chat | https://t.me/nicegramchat | Official Nicegram chat! Channel @nicegramapp Navi... |
+| Reddigram | https://t.me/reddigram | NO SPAM NO NSFW NO EMOJI NO SELFIES ... |
+|  Nicegram Chat | https://t.me/nicegramchat | Official Nicegram chat! Channel @nicegramapp Navi... |
 | AdGuard | https://t.me/AdGuard_chinese | adguard.com 官方网站链接。AdGuard信息反... |
 | VShareCloud | https://t.me/VShareCloud | 无描述 |
 | Telegreat Desktop 中文討論區 (Mandarin Chat) | https://t.me/TelegreatX | 已停止開發，請改用 @tg_x64 |
@@ -753,15 +753,15 @@ I am requesting for removal of account limitations.
 | HostMonit-全球主机补货通知 | https://t.me/hostmonit | HostLoc新贴推送、补货通知群... |
 | BuyVM补货通知（非官方） | https://t.me/buyvmchannel | Looking Glass： 拉斯维加斯... |
 | 搬瓦工补货推送 | https://t.me/BandwagonHostNews | 搬瓦工（BandwagonHost）补货... |
-| ⏰ 闪购提醒 | https://t.me/virmach_sale | VirMach 闪购监控+估价+语音... |
+|  闪购提醒 | https://t.me/virmach_sale | VirMach 闪购监控+估价+语音... |
 | RackNerd – 官方促销信息 | https://t.me/racknerd_promo | 定期推送RackNerd官方最新的V... |
 | VPS商家评论频道 | https://t.me/vps_reviews | 一家之言，兼听则明，自己判... |
 | 全球VPS余量监控 | https://t.me/VPS_spiders | 各网站各渠道监控爬虫合集，... |
 | Leonn的博客 | https://t.me/liyuans | 主要内容为低价主机资源，会... |
 | 特价VPS 机场分享 | https://t.me/Tjjcfx | 不定时分享，转载特价的VPS和... |
-| 🥳只推VPS 不推币(默认带aff) – VPS仓/古博 | https://t.me/vpscang | VPS推荐, VPS仓补货等信息. ... |
+| 只推VPS 不推币(默认带aff) – VPS仓/古博 | https://t.me/vpscang | VPS推荐, VPS仓补货等信息. ... |
 | Linux软件收录 | https://t.me/linuxsoft_zh_CN | Linux 日常软件收录 日常应用... |
-| Linuxgram 🐧 | https://t.me/linuxgram | News and info from the Linu... |
+| Linuxgram  | https://t.me/linuxgram | News and info from the Linu... |
 | Phoronix News | https://t.me/Phoronix | Phoronix News |
 | GNU/Linux | https://t.me/linux_group | News, discussions and help ... |
 | Linux For Everyone Community | https://t.me/linux4everyone | Welcome to the Linux For Ev... |
@@ -770,9 +770,9 @@ I am requesting for removal of account limitations.
 | Arch Linux Updates | https://t.me/archlinuxcn_updates | Arch Linux 官方和中文社区仓... |
 | Python 中文交流 | https://t.me/pythonzh | 分享心得，共同进步 进群请... |
 | Python Courses | https://t.me/Python53 | A channel for educational P... |
-| Learn Python | https://t.me/LearnPython3 | ⭐️ Download and watch the b... |
+| Learn Python | https://t.me/LearnPython3 |  Download and watch the b... |
 | python 自学交流 | https://t.me/P_Y_T_H_O_N | 学习、分享、成长 |
-| 📚Python Books | https://t.me/pythonlbooks | 📚Python библиотека admin -... |
+| Python Books | https://t.me/pythonlbooks | Python библиотека admin -... |
 | Python Resources | https://t.me/pythonres | Python programming language... |
 | PythonHub | https://t.me/PythonHub | News &amp; links about Pyth... |
 | Python etc | https://t.me/pythonetc | Regular tips about Python a... |
@@ -781,19 +781,19 @@ I am requesting for removal of account limitations.
 | Python | https://t.me/Python | You will be muted until you... |
 | The Devs Network | https://thedevs.network/ | Developers Community on Telegram |
 | Android Development Ebooks | https://t.me/devchampions | Loads of IT PDF books |
-| 🤖 Coding News ⚡️ | https://t.me/CodingNews | High quality articles, vide... |
+|  Coding News  | https://t.me/CodingNews | High quality articles, vide... |
 | Devs Share | https://t.me/thedevs_share | Part of @thedevs Rules - G... |
 | The Devs | https://t.me/thedevs | Developers community on Tel... |
 | JSWorld | https://t.me/java_script_world | JavaScript, HTML, CSS, Node... |
 | Web Dev | https://t.me/webdel | Web Development news feed. ... |
 | Front End World | https://t.me/front_end_first | New articles about Front En... |
-| TheFrontEnd🔥 | https://t.me/thefrontend | 📝 Articles 🗞 News 👓 Tutoria... |
+| TheFrontEnd | https://t.me/thefrontend |  Articles  News  Tutoria... |
 | FrontEnd Development | https://t.me/fedevelopment | Полезные ссылки иHTML, CSS,... |
 | Data Stitches | https://t.me/datastitches | 分享数据可视化，交互叙事项... |
 | Data Science Archive | https://t.me/DataScienceArchive | 小熊猫的个人工具收纳箱，还... |
 | Data Scientology | https://t.me/datascientology | Hot data science related po... |
 | 'Karim Iskakov – канал (ex: Loss Function Porn)' | https://t.me/karim_iskakov | 'TODO: channel description E...' |
-| Data Science by ODS.ai 🦜 | https://t.me/opendatascience | First Telegram Data Science... |
+| Data Science by ODS.ai  | https://t.me/opendatascience | First Telegram Data Science... |
 | Data Science | https://t.me/datascienceiot | Data Science. По всем вопро... |
 | DataFlair | https://t.me/dataflair | This channel is meant to pr... |
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
@@ -858,7 +858,7 @@ I am requesting for removal of account limitations.
 *   树莓派:[https://t.me/shumeipai](https://t.me/shumeipai)
 *   中英語言学习:[https://t.me/LinguisticAcademy](https://t.me/LinguisticAcademy)
 *   TechCrunch 中文讨论组:[https://t.me/tcchinese](https://t.me/tcchinese)
-*   🀄️ Fedora 中文用户组:[https://t.me/fedorazh](https://t.me/fedorazh)
+*    Fedora 中文用户组:[https://t.me/fedorazh](https://t.me/fedorazh)
 *   Tg 云音乐:[https://t.me/Tgsongs](https://t.me/Tgsongs)
 *   Handshake 中文社区:[https://t.me/handshake_cn](https://t.me/handshake_cn)
 *   第二现场:[https://t.me/dearlive](https://t.me/dearlive)
@@ -883,7 +883,7 @@ I am requesting for removal of account limitations.
 *   OpenWrt Discuss CTCGFW’s Group:[https://t.me/ctcgfw_openwrt_discuss](https://t.me/ctcgfw_openwrt_discuss)
 *   anki 交流群:[https://t.me/anki_app](https://t.me/anki_app)
 *   大佬装逼群:[https://t.me/xddos11](https://t.me/xddos11)
-*   腾讯云☆阿里云🅥:[https://t.me/TencentAliyun](https://t.me/TencentAliyun)
+* 腾讯云☆阿里云:[https://t.me/TencentAliyun](https://t.me/TencentAliyun)
 *   MugglePay 麻瓜宝用户群:[https://t.me/mugglepay](https://t.me/mugglepay)
 *   Linmi 简日志:[https://t.me/cmemo](https://t.me/cmemo)
 *   硬核英语 / Hardcore English:[https://t.me/hardcoreng](https://t.me/hardcoreng)
@@ -893,7 +893,7 @@ I am requesting for removal of account limitations.
 *   叶清风的小店的讨论组:[https://t.me/OwO_G](https://t.me/OwO_G)
 *   期货与期权 Derivatives:[https://t.me/CNderivatives](https://t.me/CNderivatives)
 *   键盘交流群:[https://t.me/keyboard_cn](https://t.me/keyboard_cn)
-*   闲蛋面板🥚交流群:[https://t.me/xdzzmb](https://t.me/xdzzmb)
+*   闲蛋面板交流群:[https://t.me/xdzzmb](https://t.me/xdzzmb)
 
 <a id="京豆"></a>
 ### 京豆
@@ -1229,7 +1229,7 @@ I am requesting for removal of account limitations.
 *   Telegreat Project:[https://t.me/Telegreat](https://t.me/Telegreat)
 *   Telegram Passport:[https://t.me/TelegramPassport](https://t.me/TelegramPassport)
 *   Plus Messenger official:[https://t.me/plusmsgr](https://t.me/plusmsgr)
-*   KeralaGram [Official]®:[https://t.me/KeralaGramChannel](https://t.me/KeralaGramChannel)
+*   KeralaGram [Official]:[https://t.me/KeralaGramChannel](https://t.me/KeralaGramChannel)
 *   Challegram:[https://t.me/Challegram](https://t.me/Challegram)
 *   X Plus Channel:[https://t.me/XPlus_Channel](https://t.me/XPlus_Channel)
 *   Nicegram:[https://t.me/nicegramapp](https://t.me/nicegramapp)
@@ -1267,9 +1267,9 @@ I am requesting for removal of account limitations.
 *   zaobao.sg 早报 + 晚报 + 新明新闻:[https://t.me/zaobaosg](https://t.me/zaobaosg)
 *   PixelExperience - News:[https://t.me/PixelExperience](https://t.me/PixelExperience)
 *    Apple Nuts:[https://t.me/AppleNuts](https://t.me/AppleNuts)
-*    Apple Spyder 果蛛 🕷️:[https://t.me/AppleSpyder](https://t.me/AppleSpyder)
+*    Apple Spyder 果蛛 :[https://t.me/AppleSpyder](https://t.me/AppleSpyder)
 *   AppPie:[https://t.me/AppPie](https://t.me/AppPie)
-*   OnePlus™:[https://t.me/OnePlus](https://t.me/OnePlus)
+*   OnePlus:[https://t.me/OnePlus](https://t.me/OnePlus)
 *   程序员技术资源分享:[https://t.me/gotoshare](https://t.me/gotoshare)
 *   大虾的编程资源库 / 码农 / 程序员资源:[https://t.me/programmingsrchub](https://t.me/programmingsrchub)
 *   每日 AWESOME 观察:[https://t.me/awesomeopensource](https://t.me/awesomeopensource)
@@ -1332,9 +1332,9 @@ I am requesting for removal of account limitations.
 *   逆风社:[https://t.me/nifengpress](https://t.me/nifengpress)
 *   新纪元 新闻中心:[https://t.me/xinjiyuan9](https://t.me/xinjiyuan9)
 *   吾爱资源 薅羊毛・资讯中心:[https://t.me/Pojieapp](https://t.me/Pojieapp)
-*   🎏「 彼岸情报🔎！」🎏薅羊毛情报见闻社:[https://t.me/BaccanoSoul](https://t.me/BaccanoSoul)
+*   「 彼岸情报！」薅羊毛情报见闻社:[https://t.me/BaccanoSoul](https://t.me/BaccanoSoul)
 *   此岸情报局:[https://t.me/JustReformation](https://t.me/JustReformation)
-*   频道🏆资源福利分享:[https://t.me/freemorebest](https://t.me/freemorebest)
+*   频道资源福利分享:[https://t.me/freemorebest](https://t.me/freemorebest)
 *   推特|OnlyFans女菩萨:[https://t.me/xnvpux](https://t.me/xnvpux)
 *   Google Play 限免信息:[https://t.me/playsales](https://t.me/playsales)
 *   扫地僧笔记:[https://t.me/lover_links](https://t.me/lover_links)
@@ -1347,7 +1347,7 @@ I am requesting for removal of account limitations.
 *   壁纸 wallpapers:[https://t.me/bizhi123](https://t.me/bizhi123)
 *   Hk3ToN:[https://t.me/Hk3To](https://t.me/Hk3To)
 *   Wallpaper@Winn 手工壁纸分享:[https://t.me/WallpaperWinn](https://t.me/WallpaperWinn)
-*   最美壁纸 © 极简派:[https://t.me/yidu520](https://t.me/yidu520)
+*   最美壁纸  极简派:[https://t.me/yidu520](https://t.me/yidu520)
 *   iWallpaper PC:[https://t.me/iWallpaperPC](https://t.me/iWallpaperPC)
 *   Dynamic Wallpaper Club:[https://t.me/dynamicwallpaperclub](https://t.me/dynamicwallpaperclub)
 *   Tech Guide:[https://t.me/TechGuide](https://t.me/TechGuide)
@@ -1384,7 +1384,7 @@ I am requesting for removal of account limitations.
 *   Cloudflare 在中国频道:[https://t.me/Cloudflare_CN](https://t.me/Cloudflare_CN)
 *   PT 资讯频道:[https://t.me/privatetrackernews](https://t.me/privatetrackernews)
 *   Iyouport:[https://t.me/iyouport](https://t.me/iyouport)
-*   o1xhack & friends🥤 分享 思考 科技 生活:[https://t.me/o1xinsight](https://t.me/o1xinsight)
+*   o1xhack & friends 分享 思考 科技 生活:[https://t.me/o1xinsight](https://t.me/o1xinsight)
 *   Newlearner の自留地:[https://t.me/NewlearnerChannel](https://t.me/NewlearnerChannel)
 *   Awesome Collection:[https://t.me/awesome_collection](https://t.me/awesome_collection)
 *   Picacomic News:[https://t.me/PicACG](https://t.me/PicACG)
@@ -1436,7 +1436,7 @@ I am requesting for removal of account limitations.
 *   TikTok 抖音短视频:[https://t.me/TiktokA3](https://t.me/TiktokA3)
 *   阿里云盘:[https://t.me/YunPanPan](https://t.me/YunPanPan)
 *   阿里云盘资源发布频道:[https://t.me/shareAliyun](https://t.me/shareAliyun)
-*   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
+*   二手:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
 
 
@@ -1485,7 +1485,7 @@ I am requesting for removal of account limitations.
 *   Kindle 特价书:[https://t.me/KindleBookDeals](https://t.me/KindleBookDeals)
 *   亚马逊 Amazon 每日热销、降价榜:[https://t.me/amazonhotevery](https://t.me/amazonhotevery)
 *   Amazon 降价信息:[https://t.me/amazondrop](https://t.me/amazondrop)
-*   Premium 🇵 🇷 🇴💀:[https://t.me/Premiumpro](https://t.me/Premiumpro)
+* Premium :[https://t.me/Premiumpro](https://t.me/Premiumpro)
 *   饭否每日精选:[https://t.me/fanfou_daily](https://t.me/fanfou_daily)
 *   饭否每周精选:[https://t.me/fanfou_weekly](https://t.me/fanfou_weekly)
 *   Scale system:[https://t.me/scalesystem](https://t.me/scalesystem)
@@ -1524,7 +1524,7 @@ I am requesting for removal of account limitations.
 *   Foolish TraceWind:[https://t.me/FoolishTraceWind](https://t.me/FoolishTraceWind)
 *   物与民胞:[https://t.me/unicorn4kk](https://t.me/unicorn4kk)
 *   DLK 搞笑趣闻情报站:[https://t.me/dlkqingbaozhan](https://t.me/dlkqingbaozhan)
-*   毒奶频道 🅥 limboPro.xyz:[https://t.me/limboprossr](https://t.me/limboprossr)
+* 毒奶频道 limboPro.xyz:[https://t.me/limboprossr](https://t.me/limboprossr)
 *   OurBits RSS 频道:[https://t.me/OurBits_RSS](https://t.me/OurBits_RSS)
 *   ZUOLUOTV 官方频道:[https://t.me/zuoluotvofficial](https://t.me/zuoluotvofficial)
 *   不求甚解:[https://t.me/fakeye](https://t.me/fakeye)
@@ -1546,11 +1546,11 @@ I am requesting for removal of account limitations.
 *   Rachel 碎碎念:[https://t.me/RachelBlahblah](https://t.me/RachelBlahblah)
 *   Rachel 的消息发布站点:[https://t.me/RachelNotice](https://t.me/RachelNotice)
 *   Telegram China News:[https://t.me/tgchinanews](https://t.me/tgchinanews)
-*   📊 Polls Channel:https://t.me/polls_channel
+*    Polls Channel:https://t.me/polls_channel
 *   浅影随想:[https://t.me/lightFantasy](https://t.me/lightFantasy)
 *   杂物:[https://t.me/zaawuu](https://t.me/zaawuu)
 *   螺莉莉的黑板报:[https://t.me/im_RORIRI](https://t.me/im_RORIRI)
-*   锤子🔨丨网球🎾丨圈❎:[https://t.me/ThorHCC](https://t.me/ThorHCC)
+*   锤子丨网球丨圈:[https://t.me/ThorHCC](https://t.me/ThorHCC)
 *   APPDO 数字生活指南:[https://t.me/appdodo](https://t.me/appdodo)
 *   资源垃圾佬:[https://t.me/allfree123](https://t.me/allfree123)
 *   老梁故事汇:[https://t.me/Laoliang666](https://t.me/Laoliang666)
@@ -1593,11 +1593,11 @@ I am requesting for removal of account limitations.
 *   Matters 閲讀精選:[https://t.me/MattersHub](https://t.me/MattersHub)
 *   灵感库:[https://t.me/uselessideas](https://t.me/uselessideas)
 *   中国纪录片:[https://t.me/chinesedocumentary](https://t.me/chinesedocumentary)
-*   👁‍🗨耳目💬:[https://t.me/earsandeyes](https://t.me/earsandeyes)
+*   耳目:[https://t.me/earsandeyes](https://t.me/earsandeyes)
 *   重灌狂人:[https://t.me/briian](https://t.me/briian)
 *   电报障害:[https://t.me/poorRideoReception](https://t.me/poorRideoReception)
-*   莼🐔8️⃣混:[https://t.me/eessej](https://t.me/eessej)
-*   📣文宣中国📣:[https://t.me/VoiceofCN](https://t.me/VoiceofCN)
+*   莼混:[https://t.me/eessej](https://t.me/eessej)
+*   文宣中国:[https://t.me/VoiceofCN](https://t.me/VoiceofCN)
 *   一方天地:[https://t.me/world2us](https://t.me/world2us)
 *   R.O.D.:[https://t.me/read_or_dead](https://t.me/read_or_dead)
 *   人间指南:[https://t.me/renjianzhinan_channel](https://t.me/renjianzhinan_channel)
@@ -1683,10 +1683,10 @@ I am requesting for removal of account limitations.
 *   吴说区块链:[https://t.me/wublock](https://t.me/wublock)
 *   币圈快讯:[https://t.me/btcnewsdaily](https://t.me/btcnewsdaily)
 *   快讯猎手（重要版）:[https://t.me/zhongyaokuaixun](https://t.me/zhongyaokuaixun)
-*   Find Blog👁发现博客:[https://t.me/findblog](https://t.me/findblog)
+*   Find Blog发现博客:[https://t.me/findblog](https://t.me/findblog)
 *   苍穹の下・SKY 的 Blog:[https://t.me/blueskyxnblog](https://t.me/blueskyxnblog)
 *   瞎玩菌:[https://t.me/blindgamer](https://t.me/blindgamer)
-*   Tesla China 🅥:[https://t.me/Teslacn](https://t.me/Teslacn)
+* Tesla China :[https://t.me/Teslacn](https://t.me/Teslacn)
 
 ##### 机器人 Bot
 
@@ -1755,7 +1755,7 @@ I am requesting for removal of account limitations.
 *   [areply_bot](https://t.me/areply_bot) 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能
 *   [WuhanPneumoniaBot](https://t.me/WuhanPneumoniaBot) 武汉新型冠状病毒感染肺炎查询
 *   [haoyybot](https://t.me/haoyybot) 歌曲音乐搜索机器人，输入歌曲名或者歌手名，把 TG 变成音乐播放器！
-*   [🎵 Music Downloader](https://t.me/MusicDownloaderRobot) Spotify 音乐下载
+*   [ Music Downloader](https://t.me/MusicDownloaderRobot) Spotify 音乐下载
 *   [SangMataInfo_bot](https://t.me/SangMataInfo_bot) 群成员更改名称通知提醒
 *   [zlibrary](https://t.me/zlibrarybot) 搜书机器人
 *   [Nexus Search](https://t.me/libgen_scihub_bot) 搜书机器人
