@@ -148,7 +148,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 ### 4. Giffgaff 手机卡
 
 <a id="telegram-api"></a>
-### Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功)
+Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功)
 
 闪连vpn成功申请演示视频:[https://youtu.be/tsa3P5uDYS4](https://youtu.be/tsa3P5uDYS4)
 
