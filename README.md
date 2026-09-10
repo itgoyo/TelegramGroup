@@ -69,6 +69,7 @@
 |方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
 |AI导航站|[https://github.com/itgoyo/awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav)|AI工具集导航收录了国内外数百个不同类型的AI工具|
 |Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
+|小米遥控2 Pro|[视频演示](https://www.bilibili.com/video/BV1FFYp6jEFf/)|60块的小米遥控器竟然是Vibe Coding神器|
 | **低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 
 <!-- NAV_START -->
