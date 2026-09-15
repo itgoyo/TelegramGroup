@@ -40,7 +40,7 @@
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
-| **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通Telegram会员，支持克隆同款机器人 |
+| **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)、[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通Telegram会员，支持克隆同款机器人 |
 | **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
 | **彩虹群发器** | [自助下单](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
 | **淘宝好物分享频道** | [@taobaohaowu](https://t.me/taobaohaowu) | 每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot) |
