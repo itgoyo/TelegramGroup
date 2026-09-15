@@ -49,7 +49,7 @@
 | **阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) | [电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉 |
-| **全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
+| **手机流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
 
 <a id="推荐"></a>
 ### 推荐 
@@ -66,20 +66,8 @@
 <!-- NAV_START -->
 # **导航：** 
 
-[搜索机器人](#搜索机器人) | [推荐](#推荐) | [交易所/USDT/空投](#交易所) |[iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
+[搜索机器人](#搜索机器人) | [推荐](#推荐) |iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
 <!-- NAV_END -->
-
-<a id="交易所"></a>
-### 交易所
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981**，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
-| Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
-| Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
-| 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
-| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 
 <a id="ios限制群教程"></a>
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群18R) 的方法
