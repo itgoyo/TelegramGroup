@@ -31,12 +31,11 @@
 | **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | 汇总常用的Telegram专门的机器人合集 |
 | **免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **赔钱机场** | [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
-| **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
 | **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)、[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通Telegram会员，支持克隆同款机器人 |
-| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
-| **彩虹群发器** | [自助下单](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
+| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员 |
+| **彩虹群发器** | [官网](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
 | **淘宝好物分享频道** | [@taobaohaowu](https://t.me/taobaohaowu) | 每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot) |
 | **吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
@@ -45,18 +44,10 @@
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) | [电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉 |
 | **手机流量卡** | [官网](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
 
-<a id="推荐"></a>
-### 推荐 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
-|gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
-| hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
-
 <!-- NAV_START -->
 # **导航：** 
 
-[搜索机器人](#搜索机器人) | [推荐](#推荐) |[iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
+[搜索机器人](#搜索机器人) | [iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
 <!-- NAV_END -->
 
 <a id="ios限制群教程"></a>
@@ -184,13 +175,6 @@ Nicegram:
 api-id: 94575
 api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 ```
-
-<a id="telegram钱包"></a>
-### Telegram钱包|虚拟信用卡
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
 
 <a id="常用机器人"></a>
 ### 常用机器人
