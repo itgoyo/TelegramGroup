@@ -48,7 +48,7 @@
 | **阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) | [电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉 |
-| **手机流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
+| **手机流量卡** | [官网](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
 
 <a id="推荐"></a>
 ### 推荐 
@@ -125,7 +125,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 - [SMS 接码平台](https://sms-activate.guru/?ref=2695392)
 
-### 4. Giffgaff 手机卡
+### 4. ~~Giffgaff手机卡~~(已经停止海外运营，不推荐)
 
 <a id="telegram-api"></a>
 Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功)
