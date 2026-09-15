@@ -39,8 +39,7 @@
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) | [电报哥](https://www.youtube.com/@tgxiunv)的店铺，快速上粉 |
-| **手机流量卡** | [官网](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
+| **手机流量卡** | [官网](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商流量卡，所有产品均由运营商严格审核，品质有保障，频道:[@tgsim172](https://t.me/tgsim172) |
 
 <!-- NAV_START -->
 # **导航：** 
