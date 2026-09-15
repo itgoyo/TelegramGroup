@@ -29,9 +29,7 @@
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
 | **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | 汇总常用的Telegram专门的机器人合集 |
-| **免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **赔钱机场** | [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
-| **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
+| **区块链技术交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 区块链技术交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
 | **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)、[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通Telegram会员，支持克隆同款机器人 |
 | **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员 |
@@ -102,12 +100,6 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 - [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
 - [TelegramX 安卓下载（免 Google Play）](https://telegram-x.cn.uptodown.com/android)
-
-### 3. 接码平台
-
-- [SMS 接码平台](https://sms-activate.guru/?ref=2695392)
-
-### 4. ~~Giffgaff手机卡~~(已经停止海外运营，不推荐)
 
 <a id="telegram-api"></a>
 Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功)
@@ -251,7 +243,6 @@ I am requesting for removal of account limitations.
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **AI去机器人** | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8) | AI 换装/换脸/视频换脸，一键生成 |
 | nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
 | Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
 | Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
@@ -386,7 +377,6 @@ I am requesting for removal of account limitations.
 | 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
 |  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
 |  ID查询机器人  | [@nminfobot](https://t.me/nminfobot)        | 转发一条聊天信息给我，快速查询对方 ID|
-|  短信轰炸机器人  | [@Carll_Bomb_bot](https://t.me/Carll_Bomb_bot?start=7439567495)        | 短信轰炸机器人，这你爱的人送上“祝福”。让你爱的人，“夜不能寐”|
 |  区块链助手  | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)        | 用来监听钱包余额变化，防骗必备神器|
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
 | Chatbot      | [@strangybot](https://t.me/strangybot)       | A chatbot that you can talk to.  |
@@ -439,7 +429,6 @@ I am requesting for removal of account limitations.
 |-------|--------|------|
 | 币圈日报 | https://t.me/bidaily | 币圈日报-每日最前沿的币圈新闻资讯 |
 | 撸空投币圈Web3财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
-| 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
 | 金十数据 闪电资讯 | https://t.me/jin10shandian | 金十数据资讯推送 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
@@ -454,10 +443,7 @@ I am requesting for removal of account limitations.
 | Business & Finance News USA Edition | https://t.me/news_finance | The source for business new... |
 | 财经慢报 | https://t.me/Financial_Express | 附属群组 @Financial_Express... |
 |  7×24投资快讯 | https://t.me/golden_wind_news | 24 小时投资相关的快讯 |
-| 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
-| 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
 | TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
-| 85.60×53.98卡粉订阅/提醒 | https://t.me/DocOfCard | 85.60×53.98卡粉群：@DocOfCa... |
 | 走资世界news | https://t.me/banktoworldnews | 私聊都是骗子！ 涉及黄、黑... |
 | 数字货币安全出入金交流 | https://t.me/joinchat/AYS860xmKnoyZWRk | 本群主要讨论数字货币安全出... |
 | 无卡不欢订阅频道 | https://t.me/cardfans | 本頻道为无卡不欢订阅频道，... |
@@ -1357,7 +1343,6 @@ I am requesting for removal of account limitations.
 *   Inbox 收集箱:[https://t.me/inbox_all](https://t.me/inbox_all)
 *   冷眼向洋:[https://t.me/lengyanxiangyang](https://t.me/lengyanxiangyang)
 *   Dribbble Popular Design 每日流行设计:[https://t.me/designtaalk](https://t.me/designtaalk)
-*   Google Voice 靓号:[https://t.me/voice_google](https://t.me/voice_google)
 *   看看就好:[https://t.me/swiminthedream](https://t.me/swiminthedream)
 *   荔枝木:[https://t.me/lychee_wood](https://t.me/lychee_wood)
 *   每日摄影观察:[https://t.me/cnphotog_collect](https://t.me/cnphotog_collect)
