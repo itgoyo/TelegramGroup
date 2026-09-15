@@ -41,7 +41,7 @@
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
 | **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 |
-| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
+| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员，支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
 | **彩虹群发器** | [自助下单](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
 | **淘宝好物分享频道** | [@taobaohaowu](https://t.me/taobaohaowu) | 每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot) |
 | **吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
