@@ -35,7 +35,7 @@
 | :--- | :---: | :--- |
 | **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | 汇总常用的Telegram专门的机器人合集 |
 | **免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **赔钱机场** | [赔钱机场](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
+| **赔钱机场** | [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
 | **AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网，10000+ AI工具集合，国内外AI工具集导航大全 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
