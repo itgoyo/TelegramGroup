@@ -284,6 +284,7 @@ I am requesting for removal of account limitations.
 | Policr Mini           | [@policr_mini_bot](https://t.me/policr_mini_bot/)                   | 功能简化、全新设计的Policr迷你版           |
 | 呆呆兽                | [@KeDuckBot](https://t.me/KeDuckBot/)                               | 呆呆兽群管机器人                           |
 | 方丈机器人            | [@fangzhang_bot](https://t.me/fangzhang_bot/)                       | 方丈群组管理机器人                         |
+| 阿福                  | [@afoolGroupBot](https://t.me/afoolGroupBot/)                             | 阿福支持克隆，自动回复，广告过滤等         |
 | Telegram Watchdog     | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot/)               | 看门狗机器人，提供入群验证                 |
 | 反频道马甲Bot         | [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot/)     | 自动删除群成员以频道身份发送的消息         |
 | NoAdsBot              | [@autodeletead_bot](https://t.me/autodeletead_bot/)                 | 自动删除群组中的广告消息                   |
