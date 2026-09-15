@@ -33,15 +33,15 @@
 
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
-| **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | Telegram专门的机器人合集，总有一个是你需要的 |
+| **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | 汇总常用的Telegram专门的机器人合集 |
 | **免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **赔钱机场** | [赔钱机场](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
 | **AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网，10000+ AI工具集合，国内外AI工具集导航大全 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
-| **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 |
-| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员，支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
+| **电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通Telegram会员，支持克隆同款机器人 |
+| **手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员 → [通知群](https://t.me/tgviptongzhi)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费 |
 | **彩虹群发器** | [自助下单](https://t.me/caihongautobot) | 多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广 |
 | **淘宝好物分享频道** | [@taobaohaowu](https://t.me/taobaohaowu) | 每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot) |
 | **吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
