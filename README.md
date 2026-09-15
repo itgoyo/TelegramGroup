@@ -1,9 +1,8 @@
 <!--
- * @Description:
- * @telegram: @tghzsx_bot
+ * @Description:电报导航
 -->
 <div align="center">
-【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，全网最全的电报导航，精心筛选，让您轻松玩转Telegram。
+【电报推荐】10000+优质Telegram群组、Telegram频道推荐、频道和机器人，汇聚全网最全的电报导航，海量精选高质量群组频道，让您轻松玩转Telegram。
 </div>
 
 <a id="搜索机器人"></a>
