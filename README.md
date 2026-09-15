@@ -34,7 +34,6 @@
 | **TelegramBot** | [@TelegramBot](https://github.com/itgoyo/TelegramBot) | 汇总常用的Telegram专门的机器人合集 |
 | **免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **赔钱机场** | [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57) | 全网最便宜机场，1块100G流量 |
-| **AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网，10000+ AI工具集合，国内外AI工具集导航大全 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航，推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 |
 | **能量机器人** | [@trxsosobot](https://t.me/trxsosobot) | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
@@ -56,10 +55,6 @@
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
 | hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
-|奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
-|环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
-|AI导航站|[https://github.com/itgoyo/awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav)|AI工具集导航收录了国内外数百个不同类型的AI工具|
-|Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
 
 <!-- NAV_START -->
 # **导航：** 
