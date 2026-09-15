@@ -18,6 +18,8 @@
 | **神马搜索** | [@smss](https://t.me/smss?start=spread_7202424896) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **超级索引** | [@CJSY](https://t.me/CJSY?start=7202424896) | 发送词语即可搜索关联群组与频道资源 |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
 
 ### 搜索群
 
